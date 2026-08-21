@@ -1,20 +1,38 @@
-# Fundraising Fox Open Dataset
+# Fundraising Fox Open Dataset — v2026-08
 
-The open, attribution-required dataset behind [fundraisingfox.com](https://fundraisingfox.com) — investors, venture rounds, and LP-disclosed fund performance, assembled from public filings and first-party websites.
+The open, attribution-required dataset behind [fundraisingfox.com](https://fundraisingfox.com): investment firms, venture rounds, and LP-disclosed fund performance, assembled from public filings and first-party websites. Every row carries a `fundraisingfox_url` linking to its live page, where the always-current, fuller record lives (thesis, team, portfolio, contacts, FAQ).
 
-**First versioned release coming shortly.** Planned files:
+## Files
 
-- `firms.csv` — investment firms: type, HQ, stages, sectors, check sizes (with source class), track-record counts
-- `rounds.csv` — venture rounds from SEC filings and press-verified reporting, with dates, stages, and amounts
-- `fund_performance.csv` — net IRR / TVPI / DPI per fund as disclosed by public-pension LPs
-- `statistics/` — deal volume, median round sizes by stage, and returns by vintage
+| File | Rows | What it is |
+|---|---|---|
+| `firms.csv` | 16,259 | Investment firms: type, HQ, stages, sectors, check sizes (with source class), track-record counts (portfolio, exits, led rounds) |
+| `rounds.csv` | 111,501 | Venture rounds from SEC filings and press-verified reporting: dates, stages, amounts (`amount_is_floor` marks SEC amounts-sold that may still grow) |
+| `fund_performance.csv` | 7,721 | Net IRR / TVPI / DPI per private fund, as disclosed by public-pension and foundation LPs — the LPs' own calculations |
+| `statistics/` | — | Directly quotable rollups: rounds by year, median round size by stage (trailing 12 months), fund returns by vintage |
 
-Every row links back to its page on fundraisingfox.com, where the always-current, fuller record lives. Releases are monthly and versioned; corrections supersede, never silently rewrite. Each release's README will carry its audited error rates — every file passes mechanical invariants plus an LLM + web-search spot-check before it ships.
+## Correctness, measured
 
-## License
+This release only ships what passed a two-layer audit — mechanical invariants over **every** row, then an LLM + web-search verification of a 100-row random sample per file:
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse freely, including in AI assistants, research, and journalism. Attribute to **Fundraising Fox** and link the page or file you drew from.
+| File | Mechanical failure rate (excluded) | Sampled error rate |
+|---|---|---|
+| `rounds.csv` | 0.21% | **0 / 100 incorrect** (28 unverifiable — small SEC-filed rounds nobody wrote about; the filing is the primary source) |
+| `fund_performance.csv` | 0.03% | **4 / 100 incorrect** — all manager-attribution edge cases; the four found were corrected before release |
+| `firms.csv` | 0.12% | **6 / 100 incorrect** — mostly HQ-city nuances (registered office vs. operating HQ) plus rare identity conflations |
 
-## Methodology
+Beyond sampling, before this release every one of ~7,200 fund→manager pairings was checked (mechanical flags + model triage + web-search verification of suspects): ~2,100 wrong or truncated manager strings ship as **null rather than as false facts**, as do pairings we could not settle. All 16,259 firms had their homepage fetched and machine-judged against the recorded identity; contradicted identities are excluded and contradicted HQ cities ship null. A missing value here means "not defensible yet", never "doesn't exist" — the live site may know more, with caveats attached.
 
-See [fundraisingfox.com/methodology](https://fundraisingfox.com/methodology). Corrections: corrections@fundraisingfox.com
+Known limitations: HQ cities can reflect filing addresses rather than operating headquarters; firm names follow the firm's own site, which may lag rebrands; `rounds.csv` excludes grant programs (SBIR/STTR) by design.
+
+## Versioning & corrections
+
+Releases are monthly and versioned; each is immutable and supersedes the last. Errors found between releases are fixed upstream at fundraisingfox.com and roll into the next cut. Report errors: corrections@fundraisingfox.com — corrections take priority over all automated sources.
+
+## License & citation
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse freely, including in AI assistants, research, and journalism.
+
+> Fundraising Fox Open Dataset, v2026-08. https://fundraisingfox.com — via github.com/fundraisingfox/data
+
+Methodology: [fundraisingfox.com/methodology](https://fundraisingfox.com/methodology)
