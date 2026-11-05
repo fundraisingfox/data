@@ -61,7 +61,7 @@ Livingbridge Ent SPV 2 LP,,,,2025,private_equity,buyout,,,1.42,0.0,2025-06-30
 "Luminate Capital Partners IV, L.P.",Luminate,luminate,https://fundraisingfox.com/investors/luminate,2025,private_equity,buyout,,,0.99,0.0,2025-09-30
 McGinty Road Partners Value Fund II,,,,2025,private_equity,buyout,,,1.06,1.06134,2025-09-30
 Mesirow Co-Invest Fd IX,Mesirow,mesirow,https://fundraisingfox.com/investors/mesirow,2025,private_equity,co_investment,,,1.2,0.0,2025-06-30
-NEA SH 2025 SPV,,new-enterprise-associates-nea,https://fundraisingfox.com/investors/new-enterprise-associates-nea,2025,private_equity,venture_capital,,,1.0,,2025-09-30
+NEA SH 2025 SPV,New Enterprise Associates (NEA),new-enterprise-associates-nea,https://fundraisingfox.com/investors/new-enterprise-associates-nea,2025,private_equity,venture_capital,,,1.0,,2025-09-30
 "New Mountain SRC Continuation Fund, L.P. Private Equity",New Mountain,new-mountain-capital,https://fundraisingfox.com/investors/new-mountain-capital,2025,private_equity,buyout,,,1.0,1.0,2025-06-30
 "New Mountain SRC Rollover Fund, L.P. Private Equity",New Mountain,new-mountain-capital,https://fundraisingfox.com/investors/new-mountain-capital,2025,private_equity,buyout,,,1.0,1.0522,2025-06-30
 "Oaktree Gilead Investment Fund, L.P. - Series B",Oaktree,oaktree,https://fundraisingfox.com/investors/oaktree,2025,real_assets,real_estate_equity,,,1.02277,0.0,2025-06-30
@@ -117,7 +117,7 @@ Antares Capital Senior Loan Fund III,,antares-capital,https://fundraisingfox.com
 Apax XI USD L.P.,Apax,apax,https://fundraisingfox.com/investors/apax,2024,private_equity,buyout,,0.2383,1.16087,,2025-06-30
 "Apollo Accord Fund VI, L.P.",Apollo,apollo,https://fundraisingfox.com/investors/apollo,2024,private_credit,direct_lending,,,1.07,0.0,2024-06-30
 "Arbour Lane Credit Opportunity Fund IV, L.P.",,arbour-lane-capital-management,https://fundraisingfox.com/investors/arbour-lane-capital-management,2024,opportunistic,multi_strategy,,-0.0487,0.95,0.0,2025-06-30
-ArchiMed Med Rise,,archimed-pte-ltd,https://fundraisingfox.com/investors/archimed-pte-ltd,2024,private_equity,venture_capital,,,0.5,,2025-09-30
+ArchiMed Med Rise,,archimed-japan,https://fundraisingfox.com/investors/archimed-japan,2024,private_equity,venture_capital,,,0.5,,2025-09-30
 Ardian CT PE Part. Class D Leg,Ardian,ardian,https://fundraisingfox.com/investors/ardian,2024,private_equity,buyout,,,1.0,,2024-12-31
 Ardian Expansion 6,Ardian,ardian,https://fundraisingfox.com/investors/ardian,2024,private_equity,growth_equity,,,0.982082,,2025-09-30
 Ares Senior Direct Lending Fund (Delaware) III LP,Ares,ares,https://fundraisingfox.com/investors/ares,2024,private_credit,direct_lending,,,1.12801,0.0675,2025-06-30
@@ -138,7 +138,7 @@ Bain Capital Life Sciences Fund IV. L.P.,Bain,bain-capital-life-sciences,https:/
 "BCSS CLP Investors, L.P.",,,,2024,private_equity,fund_of_funds,,,1.21108,0.0196,2025-06-30
 Belveron Partners Fund VII,Belveron Partners,belveron-partners,https://fundraisingfox.com/investors/belveron-partners,2024,private_equity,buyout,,,1.07153,0.102168,2025-11-30
 Bessemer Venture Partners XII,Bessemer,bessemer-venture-partners,https://fundraisingfox.com/investors/bessemer-venture-partners,2024,private_equity,venture_capital,,-0.0453,0.971568,,2025-06-30
-BGH Capital Fund II,,bgh,https://fundraisingfox.com/investors/bgh,2024,real_assets,real_estate_equity,,-0.3284,0.7,,2025-09-30
+BGH Capital Fund II,,bgh-capital,https://fundraisingfox.com/investors/bgh-capital,2024,real_assets,real_estate_equity,,-0.3284,0.7,,2025-09-30
 BID III DESRI Co-Invest,,,,2024,private_equity,co_investment,,,1.08155,0.0784667,2025-09-30
 Biospring Partners Fund II,Biospring,biospring-partners,https://fundraisingfox.com/investors/biospring-partners,2024,private_equity,venture_capital,,,0.0,,2024-12-31
 BjorkTree AB,BjorkTree AB,bjorktree-ab,https://fundraisingfox.com/investors/bjorktree-ab,2024,opportunistic,tactical,,,1.14552,0.0,2025-06-30
@@ -198,7 +198,7 @@ Dawson Portfolio Finance 6,Dawson,dawson-partners,https://fundraisingfox.com/inv
 "DBP III-N Strategic Partners, LP",,,,2024,real_assets,infrastructure,,,1.00471,0.0,2025-03-31
 DCVC,,,,2024,private_equity,venture_capital,,-0.231,0.8821,0.0575,2025-06-30
 Dover Street XI,Dover Street,harbourvest-partners-canada,https://fundraisingfox.com/investors/harbourvest-partners-canada,2024,private_equity,buyout,,,1.35,0.0868,2025-06-30
-ECI 12,,eci,https://fundraisingfox.com/investors/eci,2024,opportunistic,tactical,,-0.1523,0.84,0.0,2025-12-31
+ECI 12,,eci-partners,https://fundraisingfox.com/investors/eci-partners,2024,opportunistic,tactical,,-0.1523,0.84,0.0,2025-12-31
 Eclipse Fund V,Eclipse,eclipse,https://fundraisingfox.com/investors/eclipse,2024,private_equity,buyout,,-0.426,0.9559,0.0318,2025-06-30
 "Edison Partners XI, L.P.",,edison-partners,https://fundraisingfox.com/investors/edison-partners,2024,private_equity,buyout,,,2.55,0.0,2025-06-30
 "EII-C SPV, LP",,,,2024,opportunistic,tactical,,,1.13042,0.0,2025-06-30
@@ -472,7 +472,7 @@ AIP Co-Invest 2023B SCSp,,,,2023,private_equity,fund_of_funds,,,1.11895,0.0,2025
 "Alphi Capital I, L.P.",,alphi-capital,https://fundraisingfox.com/investors/alphi-capital,2023,private_equity,buyout,,-0.1996,0.8,0.0,2025-03-31
 Alpine Investors IX,Alpine Investors,alpine-investors,https://fundraisingfox.com/investors/alpine-investors,2023,private_equity,buyout,,,1.11,0.0048,2025-09-30
 Alpine IX,Alpine Investors,alpine-investors,https://fundraisingfox.com/investors/alpine-investors,2023,private_equity,buyout,,,1.1,0.0,2025-09-30
-Altaris Health Partners VI,Altaris,altaris,https://fundraisingfox.com/investors/altaris,2023,private_equity,buyout,,,0.0,0.0,2025-12-31
+Altaris Health Partners VI,Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,2023,private_equity,buyout,,,0.0,0.0,2025-12-31
 "Alterra IOS Venture III, L.P.",,alterra-property-group,https://fundraisingfox.com/investors/alterra-property-group,2023,private_equity,venture_capital,,-0.0904,0.96,0.01,2025-06-30
 Amberbrook IX LP,Amberbrook,amberbrook,https://fundraisingfox.com/investors/amberbrook,2023,private_equity,buyout,,,1.53436,0.0658,2025-06-30
 American Industrial Partners Fund VIII,American Industrial,american-industrial-partners,https://fundraisingfox.com/investors/american-industrial-partners,2023,private_equity,buyout,,,1.2,0.0505,2025-09-30
@@ -506,7 +506,6 @@ Bain Capital Asia Fund V,Bain,bain-capital,https://fundraisingfox.com/investors/
 Bain Capital Real Estate Fund III,Bain,bain-capital-real-estate,https://fundraisingfox.com/investors/bain-capital-real-estate,2023,real_assets,real_estate_equity,,-0.0537,0.93,0.0,2025-09-30
 Bain Capital Real Estate III,Bain,bain-capital-real-estate,https://fundraisingfox.com/investors/bain-capital-real-estate,2023,real_assets,real_estate_equity,,,0.895926,0.264535,2025-09-30
 "Bain Capital Tech Opportunities Fund II, L.P.",,,,2023,opportunistic,multi_strategy,,,1.22517,0.0551,2025-06-30
-"Bain Capital Venture Fund 2022, L.P.",Bain,bain-capital-venture,https://fundraisingfox.com/investors/bain-capital-venture,2023,private_equity,venture_capital,,,1.26975,0.0,2025-06-30
 "Ballast Equity Partners Fund I-A, L.P.",Ballast,ballast,https://fundraisingfox.com/investors/ballast,2023,private_equity,buyout,,0.7268,1.45,0.02,2025-06-30
 "Ballast Equity Partners Fund I, L.P.",Ballast,ballast,https://fundraisingfox.com/investors/ballast,2023,private_equity,buyout,,0.6042,1.37,0.02,2025-06-30
 Banner Ridge Secondary Fund V,Banner Ridge,banner-ridge-partners,https://fundraisingfox.com/investors/banner-ridge-partners,2023,private_equity,secondaries,,0.7435,,,2025-06-30
@@ -533,7 +532,7 @@ Blackstone Tactical Opportunities Fund FD II LP,Blackstone,the-blackstone-group,
 Blue Owl Digital III,Blue Owl,blue-owl-capital,https://fundraisingfox.com/investors/blue-owl-capital,2023,private_credit,direct_lending,,,5.93,0.0555556,2025-09-30
 Blue Owl Diversified Lending (CP) Overflow,Blue Owl,blue-owl-capital,https://fundraisingfox.com/investors/blue-owl-capital,2023,private_credit,direct_lending,,,1.17576,0.1451,2025-06-30
 Blue Owl Real Estate Fund VI,Blue Owl,blue-owl-capital,https://fundraisingfox.com/investors/blue-owl-capital,2023,real_assets,real_estate_equity,,,1.01,0.0240964,2024-12-31
-"Bridge Debt Strategies Fund V, L.P.",,bridge-investment-group,https://fundraisingfox.com/investors/bridge-investment-group,2023,private_credit,direct_lending,,0.062,1.06,0.03,2025-06-30
+"Bridge Debt Strategies Fund V, L.P.",Bridge Investment Group,bridge-investment-group,https://fundraisingfox.com/investors/bridge-investment-group,2023,private_credit,direct_lending,,0.062,1.06,0.03,2025-06-30
 Bridgepoint Europe VII Co-Invest,Bridgepoint,bridgepoint,https://fundraisingfox.com/investors/bridgepoint,2023,private_equity,buyout,,,1.31,1.308,2025-06-30
 Bridgepoint Europe VII Co-Invest (NYC),Bridgepoint,bridgepoint,https://fundraisingfox.com/investors/bridgepoint,2023,private_equity,buyout,,,1.31,1.308,2025-06-30
 Bridgepoint Europe VII L.P.,Bridgepoint,bridgepoint,https://fundraisingfox.com/investors/bridgepoint,2023,private_equity,buyout,,0.187,1.2,0.0337019,2025-12-31
@@ -570,7 +569,7 @@ Clearlake CP VIII,Clearlake,clearlake-capital-group,https://fundraisingfox.com/i
 "Coastal Pacific Partners, L.P.",,,,2023,private_equity,buyout,,,1.07114,0.0,2025-06-30
 "Coefficient Capital Apex Fund I, LP",,coefficient-capital,https://fundraisingfox.com/investors/coefficient-capital,2023,private_equity,buyout,,,0.847393,0.0,2025-06-30
 "Contour Venture Partners V-A, LP",Contour,contour-venture-partners,https://fundraisingfox.com/investors/contour-venture-partners,2023,private_equity,venture_capital,,,0.572241,0.0,2025-03-31
-"Crescent Cove Capital IV, LP",,crescent-cove-capital,https://fundraisingfox.com/investors/crescent-cove-capital,2023,private_equity,buyout,,0.07,1.12,0.02,2025-12-31
+"Crescent Cove Capital IV, LP",CRESCENT COVE CAPITAL,crescent-cove-capital,https://fundraisingfox.com/investors/crescent-cove-capital,2023,private_equity,buyout,,0.07,1.12,0.02,2025-12-31
 "Crestline Opportunity Fund V Onshore T/STE, L.P.",Crestline Opportunity,crestline-investors,https://fundraisingfox.com/investors/crestline-investors,2023,opportunistic,multi_strategy,,0.1364,1.24,0.1666,2025-09-30
 Cross Lake Re IV,,,,2023,real_assets,real_estate_equity,,,0.86,0.01,2025-09-30
 "Crosspoint Capital Fund II, LP",Crosspoint Capital,crosspoint-capital-partners,https://fundraisingfox.com/investors/crosspoint-capital-partners,2023,private_equity,buyout,,,1.14859,0.0022,2025-06-30
@@ -716,7 +715,7 @@ New 2ND Capital Fund III,New 2nd Capital,new-2nd-capital,https://fundraisingfox.
 New 2ND Capital N Sidecar,New 2nd Capital,new-2nd-capital,https://fundraisingfox.com/investors/new-2nd-capital,2023,private_equity,secondaries,,0.145,1.2,0.0715,2025-06-30
 "New Mountain Partners VII, L.P.",New Mountain,new-mountain-capital,https://fundraisingfox.com/investors/new-mountain-capital,2023,private_equity,buyout,,0.386,1.207,0.0,2025-09-30
 "NHTV II Co-Invest Excelsior, LP",NHTV,nhtv,https://fundraisingfox.com/investors/nhtv,2023,private_equity,co_investment,,,1.21302,0.0173179,2025-03-31
-"Northleaf Infrastructure Capital Partners (US) IV, LP",,northleaf-capital-partners,https://fundraisingfox.com/investors/northleaf-capital-partners,2023,real_assets,infrastructure,,,0.954787,0.0481763,2025-03-31
+"Northleaf Infrastructure Capital Partners (US) IV, LP",Northleaf Capital Partners,northleaf-capital-partners,https://fundraisingfox.com/investors/northleaf-capital-partners,2023,real_assets,infrastructure,,,0.954787,0.0481763,2025-03-31
 NYC-NorthBound Emerging Managers Program II,,,,2023,private_equity,fund_of_funds,,,1.02,1.0184,2025-06-30
 "Oak Hill Advisors Structured Products Fund III, L.P.",Oak Hill,oak-hill-advisors,https://fundraisingfox.com/investors/oak-hill-advisors,2023,private_credit,structured_credit,,0.142,1.2,0.07,2025-09-30
 Oaktree CLO Equity Fund I,Oaktree,oaktree,https://fundraisingfox.com/investors/oaktree,2023,private_credit,structured_credit,,0.085,1.085,0.374,2025-09-30
@@ -859,7 +858,7 @@ Apollo Accord V,Apollo,apollo,https://fundraisingfox.com/investors/apollo,2022,p
 "Apollo Excelsior, LP",Apollo,apollo,https://fundraisingfox.com/investors/apollo,2022,private_credit,direct_lending,,,1.14822,0.439262,2025-03-31
 Apollo Investment Fund X,Apollo,apollo,https://fundraisingfox.com/investors/apollo,2022,private_equity,buyout,,0.1903,1.23,0.21,2025-09-30
 Aquiline Financial Services Fund V,,,,2022,private_equity,buyout,,,1.29,0.00392773,2025-09-30
-ArchiMed MED Platform II,,archimed-pte-ltd,https://fundraisingfox.com/investors/archimed-pte-ltd,2022,private_equity,venture_capital,,0.216,1.3,0.0067,2025-09-30
+ArchiMed MED Platform II,,archimed-japan,https://fundraisingfox.com/investors/archimed-japan,2022,private_equity,venture_capital,,0.216,1.3,0.0067,2025-09-30
 Ardian Infra Fund V Co-Invest Eden,Ardian,ardian,https://fundraisingfox.com/investors/ardian,2022,real_assets,infrastructure,,0.101,1.4,,2025-06-30
 Ardian Infra Fund V Co-Invest Lemon,Ardian,ardian,https://fundraisingfox.com/investors/ardian,2022,real_assets,infrastructure,,0.255,,,2025-06-30
 "Ares Credit Investment Partnership (CP), L.P.",Ares,ares,https://fundraisingfox.com/investors/ares,2022,private_credit,direct_lending,,,1.24664,0.0,2025-06-30
@@ -883,11 +882,11 @@ B Capital Co-Invest Fund (N),B Capital,b-capital,https://fundraisingfox.com/inve
 "B Capital Growth Fund III, LP",B Capital,b-capital,https://fundraisingfox.com/investors/b-capital,2022,private_equity,growth_equity,,,1.08465,0.0507355,2025-03-31
 B Capital Growth III Co-Invest Fund,B Capital,b-capital,https://fundraisingfox.com/investors/b-capital,2022,private_equity,growth_equity,,,1.03054,0.0,2024-03-31
 "B Capital Opportunities Fund II, L.P.",B Capital,b-capital,https://fundraisingfox.com/investors/b-capital,2022,private_credit,mezzanine,,,1.85346,0.0,2025-06-30
-Bain Capital Venture Coinvestment Fund IV,Bain,bain-capital-venture,https://fundraisingfox.com/investors/bain-capital-venture,2022,private_equity,co_investment,,0.193,1.18078,,2025-09-30
+Bain Capital Venture Coinvestment Fund IV,Bain,bain-capital-ventures,https://fundraisingfox.com/investors/bain-capital-ventures,2022,private_equity,co_investment,,0.193,1.18078,,2025-09-30
 Bain Capital Ventures 2022,Bain,bain-capital-ventures,https://fundraisingfox.com/investors/bain-capital-ventures,2022,private_equity,venture_capital,,0.257,1.34241,0.0,2025-09-30
 "Banner Ridge DSCO Fund II, L.P.",Banner Ridge,banner-ridge-partners,https://fundraisingfox.com/investors/banner-ridge-partners,2022,private_equity,secondaries,,0.6737,1.81,0.0,2025-06-30
 "Baring Asia Private Equity Fund VIII, L.P.",,baring-private-equity-asia,https://fundraisingfox.com/investors/baring-private-equity-asia,2022,private_equity,buyout,,0.1089,1.1,0.0119831,2025-11-30
-Barings Emerging Generation Fund II,Barings,barings,https://fundraisingfox.com/investors/barings,2022,private_equity,buyout,,0.117,1.15087,0.026,2025-06-30
+Barings Emerging Generation Fund II,Barings,barings-bdc,https://fundraisingfox.com/investors/barings-bdc,2022,private_equity,buyout,,0.117,1.15087,0.026,2025-06-30
 Basalt Infrastructure Partners IV A L.P.,,basalt-infra,https://fundraisingfox.com/investors/basalt-infra,2022,real_assets,infrastructure,,0.019,,0.0022,2024-09-30
 "Base10 Partners III, L.P.",Base10,base10-partners,https://fundraisingfox.com/investors/base10-partners,2022,private_equity,venture_capital,,-0.0171,0.972354,0.0,2025-06-30
 "Battery Ventures Select Fund II, L.P.",Battery,battery-ventures,https://fundraisingfox.com/investors/battery-ventures,2022,private_equity,venture_capital,,0.0559,1.08,0.0,2025-06-30
@@ -913,7 +912,6 @@ Blue Owl Diversified Lending (CP),Blue Owl,blue-owl-capital,https://fundraisingf
 Blue Owl Diversified Lending (CP) Co-Investment,Blue Owl,blue-owl-capital,https://fundraisingfox.com/investors/blue-owl-capital,2022,private_credit,direct_lending,,,1.20307,0.1762,2025-06-30
 Blue Sky Credit Fund LP,,,,2022,private_credit,direct_lending,,0.0852,1.13,0.46,2024-06-30
 Blue Torch Credit Opportunities Fund III,Blue Torch,blue-torch-capital,https://fundraisingfox.com/investors/blue-torch-capital,2022,opportunistic,multi_strategy,,0.165,1.27,0.39,2025-09-30
-"BOND III, LP",Bond,bond,https://fundraisingfox.com/investors/bond,2022,private_credit,direct_lending,,-0.0391,0.9632,0.0,2025-06-30
 Bregal Sagemount IV L.P.,,,,2022,private_equity,growth_equity,,0.0572,1.1,0.0,2024-12-31
 BREP X,,,,2022,real_assets,real_estate_equity,,0.096,1.09,0.0825243,2025-06-30
 Bridgepoint Europe VII A,Bridgepoint,bridgepoint,https://fundraisingfox.com/investors/bridgepoint,2022,private_equity,co_investment,,,1.24,0.0015,2025-06-30
@@ -958,7 +956,7 @@ CT Real Assets Co-Investment Fund LP (Class B),,,,2022,real_assets,real_estate_e
 CT Real Assets Co-Investment Fund LP (Class C),,,,2022,real_assets,real_estate_equity,,,1.36,0.0,2024-09-30
 CVC Capital Partners Asia VI (A),CVC,cvc-capital-partners,https://fundraisingfox.com/investors/cvc-capital-partners,2022,private_equity,buyout,,,1.1,0.142222,2025-09-30
 "CVI Clean Energy Fund B II, LP",,,,2022,real_assets,natural_resources,,,3.33501,0.016469,2025-03-31
-DCP Capital Partners II LP,DCP,dcp,https://fundraisingfox.com/investors/dcp,2022,private_equity,buyout,,0.066,1.11,0.0847906,2025-06-30
+DCP Capital Partners II LP,DCP,dcp-capital,https://fundraisingfox.com/investors/dcp-capital,2022,private_equity,buyout,,0.066,1.11,0.0847906,2025-06-30
 "Deerpath Capital Advantage (US) VI, LP",,deerpath,https://fundraisingfox.com/investors/deerpath,2022,private_equity,buyout,,,1.08188,0.0,2023-12-31
 "Deerpath Capital Management, LP",Deerpath,deerpath,https://fundraisingfox.com/investors/deerpath,2022,private_equity,buyout,,0.1317,1.26,0.139434,2025-11-30
 Denham Energy Resources Fund II LP,,denham-capital,https://fundraisingfox.com/investors/denham-capital,2022,private_equity,buyout,,0.172,1.35,0.307188,2025-06-30
@@ -991,7 +989,7 @@ Francisco Agility III,,,,2022,private_equity,buyout,,0.0094,,,2025-06-30
 Franklin Park XIV,Franklin Park,franklin-park,https://fundraisingfox.com/investors/franklin-park,2022,opportunistic,tactical,,0.089,1.11,0.029304,2025-09-30
 Franklin Venture Opp,,,,2022,private_equity,venture_capital,,0.031,1.06,0.0,2025-09-30
 Frazier Life Sciences Public Overage Fund,,frazier-healthcare-partners,https://fundraisingfox.com/investors/frazier-healthcare-partners,2022,private_equity,buyout,,,1.28153,0.174404,2025-03-31
-FSN Capital Compass I,,fsn,https://fundraisingfox.com/investors/fsn,2022,private_equity,buyout,,,0.6,,2025-09-30
+FSN Capital Compass I,,fsn-capital-partners-as,https://fundraisingfox.com/investors/fsn-capital-partners-as,2022,private_equity,buyout,,,0.6,,2025-09-30
 FTV Growth VII - Centre,,ftv-capital,https://fundraisingfox.com/investors/ftv-capital,2022,private_equity,growth_equity,,0.0,1.0,0.0,2022-03-31
 FTV VII,,,,2022,private_equity,buyout,,0.0919,1.24569,0.076733,2025-12-31
 FTV VII Co-Invest,,ftv-capital,https://fundraisingfox.com/investors/ftv-capital,2022,private_equity,buyout,,0.149,1.24,0.0429,2025-06-30
@@ -1305,11 +1303,11 @@ Axium Infrastructure North America (2021),Axium,axium,https://fundraisingfox.com
 Bain Capital RE Fund II A,Bain,bain-capital,https://fundraisingfox.com/investors/bain-capital,2021,private_equity,buyout,,-0.0076,0.98,0.0852,2025-09-30
 Bain Capital Real Estate II,Bain,bain-capital-real-estate,https://fundraisingfox.com/investors/bain-capital-real-estate,2021,real_assets,real_estate_equity,,-0.053,0.883315,0.105057,2025-09-30
 "Bain Capital Special Situations Asia II, L.P.",Bain,bain-capital,https://fundraisingfox.com/investors/bain-capital,2021,opportunistic,special_situations,,0.188,1.33,,2025-09-30
-Bain Capital Venture Coinvestment Fund III,,bain-capital-venture,https://fundraisingfox.com/investors/bain-capital-venture,2021,private_equity,co_investment,,0.007,1.02351,0.0521327,2025-09-30
+Bain Capital Venture Coinvestment Fund III,,bain-capital-ventures,https://fundraisingfox.com/investors/bain-capital-ventures,2021,private_equity,co_investment,,0.007,1.02351,0.0521327,2025-09-30
 "Banner Ridge Secondary Fund IV (T), L.P.",Banner Ridge,banner-ridge-partners,https://fundraisingfox.com/investors/banner-ridge-partners,2021,private_equity,secondaries,,0.2765,1.74,0.75,2025-06-30
-Barings CMS Fund,Barings,barings,https://fundraisingfox.com/investors/barings,2021,private_credit,direct_lending,,0.02,,,2022-06-30
-Barings Private Equity Asia VIII,Barings,barings,https://fundraisingfox.com/investors/barings,2021,private_equity,buyout,,,1.10722,,2025-09-30
-Barings Transportation Fund LP,Barings,barings,https://fundraisingfox.com/investors/barings,2021,real_assets,infrastructure,,0.0865,1.68,0.37,2024-06-30
+Barings CMS Fund,Barings,barings-bdc,https://fundraisingfox.com/investors/barings-bdc,2021,private_credit,direct_lending,,0.02,,,2022-06-30
+Barings Private Equity Asia VIII,Barings,barings-bdc,https://fundraisingfox.com/investors/barings-bdc,2021,private_equity,buyout,,,1.10722,,2025-09-30
+Barings Transportation Fund LP,Barings,barings-bdc,https://fundraisingfox.com/investors/barings-bdc,2021,real_assets,infrastructure,,0.0865,1.68,0.37,2024-06-30
 BC Partners XI GE 2 LP,BC Partners,bc-partners,https://fundraisingfox.com/investors/bc-partners,2021,private_equity,co_investment,,0.0879,1.22603,0.1011,2025-06-30
 BC Partners XI LP,BC Partners,bc-partners,https://fundraisingfox.com/investors/bc-partners,2021,private_equity,co_investment,,0.105,1.2,,2024-12-31
 BC Partners XI Metro Co-Investment L.P.,BC Partners,bc-partners,https://fundraisingfox.com/investors/bc-partners,2021,private_equity,co_investment,,0.162,1.38,,2024-12-31
@@ -1414,7 +1412,7 @@ Franklin Co-Invest V,,,,2021,private_equity,co_investment,,0.117,1.46,0.278635,2
 "Frazier Life Sciences Public Fund, LP",,,,2021,private_equity,buyout,,,1.47019,0.369274,2025-03-31
 FSBA AAM Strategic Fund I LP,,,,2021,private_equity,buyout,,0.32,1.67,0.375802,2025-06-30
 FSBA AAM Strategic Fund LP,FSBA AAM Strategic,advanced-asset-management,https://fundraisingfox.com/investors/advanced-asset-management,2021,private_equity,buyout,,0.84,1.28,0.1826,2023-03-31
-"FSN Capital VI, L.P.",,fsn,https://fundraisingfox.com/investors/fsn,2021,private_equity,buyout,,0.049,1.2,0.0129,2025-09-30
+"FSN Capital VI, L.P.",,fsn-capital-partners-as,https://fundraisingfox.com/investors/fsn-capital-partners-as,2021,private_equity,buyout,,0.049,1.2,0.0129,2025-09-30
 Further Global Capital II,,,,2021,private_equity,buyout,,0.19,1.42,0.127839,2025-06-30
 Gallatin Point Capital Partners II LP,Gallatin Point,gallatin-point-capital,https://fundraisingfox.com/investors/gallatin-point-capital,2021,private_equity,buyout,,0.122,1.16,0.1832,2024-06-30
 "GCOF III Co-Invest (TC), L.P.",,,,2021,private_equity,buyout,,-0.208,0.61,0.0,2024-12-31
@@ -1563,7 +1561,7 @@ NMS IV,Nms,nms,https://fundraisingfox.com/investors/nms,2021,private_equity,buyo
 Nordic Bear SCSp,Nordic Capital,nordic-capital,https://fundraisingfox.com/investors/nordic-capital,2021,private_equity,buyout,,0.1151,1.23772,0.0331,2025-06-30
 "Nordic Capital Fund X, L.P.",Nordic Capital,nordic-capital,https://fundraisingfox.com/investors/nordic-capital,2021,private_equity,buyout,,0.142,1.5,0.202935,2025-12-31
 North Star Investment Holdings LLC Series III,,,,2021,real_assets,infrastructure,,0.0064,1.83,0.3,2024-06-30
-"Northleaf Infrastructure Capital Partners (US) III, LP",,northleaf-capital-partners,https://fundraisingfox.com/investors/northleaf-capital-partners,2021,real_assets,infrastructure,,,1.42491,0.0371388,2025-03-31
+"Northleaf Infrastructure Capital Partners (US) III, LP",Northleaf Capital Partners,northleaf-capital-partners,https://fundraisingfox.com/investors/northleaf-capital-partners,2021,real_assets,infrastructure,,,1.42491,0.0371388,2025-03-31
 "Novacap International TMT VI-A, L.P.",Novacap,novacap,https://fundraisingfox.com/investors/novacap,2021,private_equity,buyout,,0.1172,1.17,0.3963,2025-09-30
 Oak HC-FT Partners IV,Oak HC/FT,oak-hc-ft,https://fundraisingfox.com/investors/oak-hc-ft,2021,private_equity,growth_equity,,,1.33,0.0,2025-12-31
 OAKTREE POWER OPPORTUNITIES FUND VI LP,Oaktree,oaktree,https://fundraisingfox.com/investors/oaktree,2021,real_assets,infrastructure,,0.2995,2.40956,1.47581,2025-12-31
@@ -1714,7 +1712,7 @@ Vertical Venture Partners III,,vertical,https://fundraisingfox.com/investors/ver
 "Virgo Specialty Finance I (Offshore), L.P.",Virgo Specialty Finance,virgo-investment-group,https://fundraisingfox.com/investors/virgo-investment-group,2021,private_credit,specialty_finance,,0.4727,1.0,0.0,2023-12-31
 "Virgo Specialty Finance I, L.P.",Virgo Specialty Finance,virgo-investment-group,https://fundraisingfox.com/investors/virgo-investment-group,2021,private_credit,specialty_finance,,0.0096,1.03,0.0,2025-11-30
 Vistria Fund IV,Vistria,vistria,https://fundraisingfox.com/investors/vistria,2021,private_equity,,,0.061,1.17,1.1704,2025-06-30
-"Vistria Fund IV, LP",Vistria,vistria,https://fundraisingfox.com/investors/vistria,2021,private_equity,buyout,,0.061,1.17,1.1704,2025-06-30
+"Vistria Fund IV, LP",Vistria,,,2021,private_equity,buyout,,0.061,1.17,1.1704,2025-06-30
 "Warburg Pincus Financial Sector II, L.P.",Warburg Pincus,warburg-pincus,https://fundraisingfox.com/investors/warburg-pincus,2021,private_equity,growth_equity,,0.2181,1.6,0.38525,2025-09-30
 Warren Equity,,warren,https://fundraisingfox.com/investors/warren,2021,private_equity,buyout,,,1.0,0.03,2021-12-31
 Warren Equity Partners Fund III,,warren,https://fundraisingfox.com/investors/warren,2021,private_equity,buyout,,0.113,1.38,0.03,2025-09-30
@@ -1734,7 +1732,7 @@ Aberdeen US PE Fund IX,,,,2020,real_assets,infrastructure,,0.3549,,,2023-06-30
 Adams Street SBCERA,Adams Street,adams-street-partners,https://fundraisingfox.com/investors/adams-street-partners,2020,private_equity,fund_of_funds,,0.1131,,1.38,2025-06-30
 AFIG Fund II,AFIG,afig,https://fundraisingfox.com/investors/afig,2020,private_equity,buyout,,-0.1059,0.93,0.33,2025-06-30
 AG Europe Realty Fund III,Angelo Gordon,angelo-gordon,https://fundraisingfox.com/investors/angelo-gordon,2020,real_assets,real_estate_equity,,0.052,1.2,0.120408,2025-12-31
-Altaris Health Partners V,Altaris,altaris,https://fundraisingfox.com/investors/altaris,2020,private_equity,buyout,,0.0825,1.22685,0.0179771,2025-12-31
+Altaris Health Partners V,Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,2020,private_equity,buyout,,0.0825,1.22685,0.0179771,2025-12-31
 "Ampersand CF, L.P.",Ampersand,ampersand,https://fundraisingfox.com/investors/ampersand,2020,private_equity,buyout,,0.2951,1.78,1.0589,2025-03-31
 Angelo Gordon Direct Lending Fund II,Angelo Gordon,tpg,https://fundraisingfox.com/investors/tpg,2020,private_credit,direct_lending,,0.156,1.45181,1.2622,2025-09-30
 Angelo Gordon Direct Lending Fund IV,Angelo Gordon,tpg,https://fundraisingfox.com/investors/tpg,2020,private_credit,direct_lending,,0.103,1.38944,0.685341,2025-09-30
@@ -1759,8 +1757,8 @@ Audax Mezzanine Fund V,Audax,audax-group,https://fundraisingfox.com/investors/au
 "Bain Capital Fund XIII, L.P.",Bain,bain-capital,https://fundraisingfox.com/investors/bain-capital,2020,private_equity,co_investment,,0.068,1.13,0.16,2025-06-30
 Bain Capital Ventures 2021,Bain,bain-capital-ventures,https://fundraisingfox.com/investors/bain-capital-ventures,2020,private_equity,venture_capital,,0.015,1.0495,0.0000440762,2025-09-30
 "Banner Ridge DSCO Fund I, L.P.",Banner Ridge,banner-ridge-partners,https://fundraisingfox.com/investors/banner-ridge-partners,2020,private_equity,secondaries,,0.2715,1.61,0.48,2025-06-30
-Barings Capital Investment Corporation,Barings,barings,https://fundraisingfox.com/investors/barings,2020,private_credit,direct_lending,,0.1098,,,2025-06-30
-Barings Emerging Generation Fund,Barings,barings,https://fundraisingfox.com/investors/barings,2020,private_equity,buyout,,0.164,1.52091,0.185,2025-06-30
+Barings Capital Investment Corporation,Barings,barings-bdc,https://fundraisingfox.com/investors/barings-bdc,2020,private_credit,direct_lending,,0.1098,,,2025-06-30
+Barings Emerging Generation Fund,Barings,barings-bdc,https://fundraisingfox.com/investors/barings-bdc,2020,private_equity,buyout,,0.164,1.52091,0.185,2025-06-30
 Battery Ventures XIII,Battery,battery-ventures,https://fundraisingfox.com/investors/battery-ventures,2020,private_equity,venture_capital,,,1.42,0.15,2025-12-31
 Battery Ventures XIII Side Fund,Battery,battery-ventures,https://fundraisingfox.com/investors/battery-ventures,2020,private_equity,venture_capital,,0.1397,1.72,0.24,2025-12-31
 "BC European Capital XI, L.P.",BC Partners,bc-partners,https://fundraisingfox.com/investors/bc-partners,2020,private_equity,buyout,,0.0819,1.18,0.0995,2024-12-31
@@ -1908,8 +1906,8 @@ Global Transport Income Fund Master Partnership SCSp,,,,2020,real_assets,infrast
 GPE IX TKE Co-Investment,,,,2020,private_equity,co_investment,,0.166,2.22148,,2025-09-30
 GRAIN SPECTRUM HOLDINGS III LP,Grain Spectrum Holdings,grain-spectrum-holdings,https://fundraisingfox.com/investors/grain-spectrum-holdings,2020,real_assets,infrastructure,,0.0861,1.42802,0.00179189,2025-12-31
 Green Equity Investors VIII,Leonard Green,leonard-green,https://fundraisingfox.com/investors/leonard-green,2020,private_equity,,,0.1158,1.51,0.22,2025-12-31
-Green Equity Investors VIII Coinvest N,Leonard Green,leonard-green,https://fundraisingfox.com/investors/leonard-green,2020,private_equity,,,0.17,1.81,0.372,2025-06-30
 Green Equity Investors VIII Coinvest N,,,,2020,private_equity,buyout,,0.1704,1.81,0.372,2025-06-30
+Green Equity Investors VIII Coinvest N,Leonard Green,leonard-green,https://fundraisingfox.com/investors/leonard-green,2020,private_equity,,,0.17,1.81,0.372,2025-06-30
 "Green Equity Investors VIII, L.P.",,,,2020,private_equity,buyout,,0.115,1.54,0.388187,2025-12-31
 Greenbriar V,Greenbriar Equity,greenbriar-equity-group,https://fundraisingfox.com/investors/greenbriar-equity-group,2020,private_equity,buyout,,0.07,1.22,0.0853081,2025-09-30
 GreenOak Asia II (USD Vehicle),,,,2020,real_assets,real_estate_equity,,,12.0,,2024-09-30
@@ -1928,8 +1926,8 @@ HarbourVest PA Co-Investment Fund,,,,2020,private_equity,co_investment,,0.119,1.
 HarbourVest TBW,,,,2020,private_equity,fund_of_funds,,,1.40767,0.098768,2025-09-30
 "Hastings Equity Co-Invest RI, L.P.",,hastings,https://fundraisingfox.com/investors/hastings,2020,private_equity,co_investment,,0.0219,1.06,0.0,2024-09-30
 HF Project Shield (Verisure),,,,2020,opportunistic,tactical,,0.1501,1.72944,0.1868,2025-06-30
-Hg Genesis 9,Hg,,,2020,private_equity,buyout,,0.163,1.55,0.4054,2025-06-30
 Hg Genesis 9,,,,2020,private_equity,buyout,,0.148,1.53,0.426349,2025-09-30
+Hg Genesis 9,Hg,,,2020,private_equity,buyout,,0.163,1.55,0.4054,2025-06-30
 Hg Saturn 2 A LP,Hg Saturn,hg-capital,https://fundraisingfox.com/investors/hg-capital,2020,private_equity,buyout,,0.143,1.46,0.294748,2025-09-30
 HgCapital Saturn Fund 2,HgCapital,hg-capital,https://fundraisingfox.com/investors/hg-capital,2020,private_equity,buyout,,0.157,6.27801,3.306,2025-06-30
 Highbridge Convertible Dislocation Fund (Delaware) LP,Highbridge,highbridge,https://fundraisingfox.com/investors/highbridge,2020,private_equity,buyout,,0.126,1.17,1.0364,2024-06-30
@@ -2209,7 +2207,7 @@ Bain Capital Real Estate Fund I,Bain,bain-capital-real-estate,https://fundraisin
 BE VI 'H' L.P.,,,,2019,opportunistic,tactical,,0.163,1.72526,0.3423,2025-06-30
 "Bell Institutional Fund VII, L.P.",,,,2019,real_assets,real_estate_equity,,0.021,1.08,0.10982,2025-09-30
 Benefit Street Senior Secured Opportunities Fund II,Benefit Street,benefit-street-partners,https://fundraisingfox.com/investors/benefit-street-partners,2019,opportunistic,multi_strategy,,0.0979,1.22,0.484276,2025-11-30
-"BGH Capital Fund I, L.P.",,bgh,https://fundraisingfox.com/investors/bgh,2019,real_assets,real_estate_equity,,0.0839,1.3,0.221553,2025-09-30
+"BGH Capital Fund I, L.P.",,bgh-capital,https://fundraisingfox.com/investors/bgh-capital,2019,real_assets,real_estate_equity,,0.0839,1.3,0.221553,2025-09-30
 Blackrock Global Energy & Power III,BlackRock,blackrock,https://fundraisingfox.com/investors/blackrock,2019,real_assets,natural_resources,,,1.26328,0.325861,2024-12-31
 BlackRock Global Renewable Power Infrastructure III,BlackRock,blackrock,https://fundraisingfox.com/investors/blackrock,2019,real_assets,infrastructure,,-0.121,0.71,0.0617537,2025-12-31
 "BlackRock Long Term Capital, SCSP",BlackRock,blackrock,https://fundraisingfox.com/investors/blackrock,2019,opportunistic,tactical,,0.224,2.11,1.7455,2025-12-31
@@ -2468,8 +2466,8 @@ Solar Capital Private Corporate Lending Fund,,,,2019,private_credit,direct_lendi
 Solar Capital Private Corporate Lending Fund AC,,,,2019,private_credit,direct_lending,,,1.17505,0.0452853,2021-06-30
 Spectrum VIII-A Discretionary Overage Program,Spectrum,spectrum-equity,https://fundraisingfox.com/investors/spectrum-equity,2019,private_equity,venture_capital,,0.9126,2.97975,2.398,2025-06-30
 Sprott Private Resource Lending II LP,Sprott Private Resource Lending,sprott-private-resource-lending,https://fundraisingfox.com/investors/sprott-private-resource-lending,2019,private_credit,direct_lending,,0.092,1.18,0.6725,2024-06-30
-"SSG Capital Parters V, LP",SSG,ssg,https://fundraisingfox.com/investors/ssg,2019,private_credit,direct_lending,,,1.16139,0.959048,2025-03-31
-"SSG Capital Partners V Sidecar, L.P.",,ssg,https://fundraisingfox.com/investors/ssg,2019,private_equity,buyout,,0.388,1.33,1.08034,2025-09-30
+"SSG Capital Parters V, LP",SSG,,,2019,private_credit,direct_lending,,,1.16139,0.959048,2025-03-31
+"SSG Capital Partners V Sidecar, L.P.",,,,2019,private_equity,buyout,,0.388,1.33,1.08034,2025-09-30
 Strategic Credit Opportunities,,,,2019,opportunistic,multi_strategy,,-0.1598,,,2020-06-30
 Strategic Credit Opportunities Phase II,,,,2019,opportunistic,multi_strategy,,-0.1022,,,2020-06-30
 Summit Growth Equity X,Summit,summit-partners,https://fundraisingfox.com/investors/summit-partners,2019,private_equity,growth_equity,,0.127,1.44908,0.477697,2025-09-30
@@ -2556,8 +2554,8 @@ AG Europe Realty Fund II,Angelo Gordon,angelo-gordon,https://fundraisingfox.com/
 "AG Realty Fund X, L.P.",Angelo Gordon,tpg,https://fundraisingfox.com/investors/tpg,2018,real_assets,real_estate_equity,,0.083,1.28,0.70011,2025-12-31
 AG Realty Value X,Angelo Gordon,tpg,https://fundraisingfox.com/investors/tpg,2018,real_assets,real_estate_equity,,0.075,1.24,0.664912,2025-09-30
 "AlpInvest C Fund, L.P.",,carlyle-group,https://fundraisingfox.com/investors/carlyle-group,2018,private_equity,buyout,,0.1488,1.83393,0.6021,2025-06-30
-Altaris Constellation Partners IV,Altaris,altaris,https://fundraisingfox.com/investors/altaris,2018,private_equity,buyout,,0.2075,2.019,0.737602,2025-12-31
-Altaris Health Partners IV,Altaris,altaris,https://fundraisingfox.com/investors/altaris,2018,private_equity,buyout,,0.2293,1.92907,1.08097,2025-12-31
+Altaris Constellation Partners IV,Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,2018,private_equity,buyout,,0.2075,2.019,0.737602,2025-12-31
+Altaris Health Partners IV,Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,2018,private_equity,buyout,,0.2293,1.92907,1.08097,2025-12-31
 Altos Co-Investment,Altos,altos-ventures,https://fundraisingfox.com/investors/altos-ventures,2018,private_equity,co_investment,,0.892,9.44,9.4434,2025-09-30
 Angelo Gordon Direct Lending Fund III,Angelo Gordon,tpg,https://fundraisingfox.com/investors/tpg,2018,private_credit,direct_lending,,0.095,1.41505,1.03822,2025-09-30
 Apollo Accord II,Apollo,apollo,https://fundraisingfox.com/investors/apollo,2018,private_credit,,,,1.11,1.11297,2025-09-30
@@ -2576,7 +2574,7 @@ AVP XI LP,AVP,avp-aglae-ventures,https://fundraisingfox.com/investors/avp-aglae-
 "Banc Fund X, L.P.",,the-banc-funds-company,https://fundraisingfox.com/investors/the-banc-funds-company,2018,private_equity,growth_equity,,0.059,1.37,0.190762,2025-12-31
 "Banneker Partners Fund II, L.P.",Banneker Partners,banneker-partners,https://fundraisingfox.com/investors/banneker-partners,2018,private_equity,buyout,,0.0739,1.16,0.0713,2025-09-30
 "Baring Asia Private Equity Fund VII, LP",,baring-private-equity-asia,https://fundraisingfox.com/investors/baring-private-equity-asia,2018,private_equity,buyout,,0.2017,1.74,0.743055,2025-11-30
-Barings Asia Real Estate II,Barings,barings,https://fundraisingfox.com/investors/barings,2018,real_assets,real_estate_equity,,-0.054,0.857331,0.134139,2025-09-30
+Barings Asia Real Estate II,Barings,barings-bdc,https://fundraisingfox.com/investors/barings-bdc,2018,real_assets,real_estate_equity,,-0.054,0.857331,0.134139,2025-09-30
 Battery Ventures XII,Battery,battery-ventures,https://fundraisingfox.com/investors/battery-ventures,2018,private_equity,venture_capital,,0.2244,2.8,1.39,2025-12-31
 Battery Ventures XII Side Fund,Battery,battery-ventures,https://fundraisingfox.com/investors/battery-ventures,2018,private_equity,venture_capital,,0.3095,3.44,2.42,2025-12-31
 "BCP Fund II, L.P.",,bcp,https://fundraisingfox.com/investors/bcp,2018,private_equity,buyout,,0.2255,1.81,0.37,2025-06-30
@@ -2625,9 +2623,9 @@ DCP I,,,,2018,private_equity,buyout,,0.058,1.17,0.59158,2025-06-30
 Denham Mining Fund,Denham,denham-capital,https://fundraisingfox.com/investors/denham-capital,2018,real_assets,natural_resources,,-0.003,0.99,0.0189573,2025-09-30
 Denham Mining Fund NR,Denham,denham-capital,https://fundraisingfox.com/investors/denham-capital,2018,real_assets,natural_resources,,0.155,1.35555,,2021-06-30
 Digital Colony I,Digital Colony,digital-colony-management,https://fundraisingfox.com/investors/digital-colony-management,2018,private_equity,buyout,,0.114,,,2025-06-30
-Dune IV,Dune,dune,https://fundraisingfox.com/investors/dune,2018,opportunistic,tactical,,-0.043,0.87,0.0509031,2025-09-30
+Dune IV,Dune,dune-ventures,https://fundraisingfox.com/investors/dune-ventures,2018,opportunistic,tactical,,-0.043,0.87,0.0509031,2025-09-30
 Dyal Capital Partners IV,Dyal Capital,dyal-capital-partners,https://fundraisingfox.com/investors/dyal-capital-partners,2018,private_equity,secondaries,,0.415,1.83,0.7051,2023-09-30
-ECI 11,,eci,https://fundraisingfox.com/investors/eci,2018,opportunistic,tactical,,0.1445,1.65,0.58,2025-12-31
+ECI 11,,eci-partners,https://fundraisingfox.com/investors/eci-partners,2018,opportunistic,tactical,,0.1445,1.65,0.58,2025-12-31
 "Edison Partners IX, L.P.",,edison-partners,https://fundraisingfox.com/investors/edison-partners,2018,private_equity,buyout,,0.1373,1.95,0.11,2025-06-30
 EnCap Flatrock Midstream Fund IV LP,Encap Flatrock Midstream,encap-flatrock-midstream,https://fundraisingfox.com/investors/encap-flatrock-midstream,2018,real_assets,natural_resources,,0.096,1.32126,0.586178,2025-09-30
 Encap Flatrock Midstream IV L.P.,Encap Flatrock Midstream,encap-flatrock-midstream,https://fundraisingfox.com/investors/encap-flatrock-midstream,2018,real_assets,infrastructure,,0.08,1.25,0.494589,2024-12-31
@@ -2655,7 +2653,7 @@ Francisco Partners V LP,Francisco Partners,francisco-partners,https://fundraisin
 Further Global Capital I,Further Global,,,2018,private_equity,buyout,,0.095,1.36,0.558123,2025-06-30
 Gallatin Point Capital Partners LP,Gallatin Point,gallatin-point-capital,https://fundraisingfox.com/investors/gallatin-point-capital,2018,private_equity,buyout,,0.161,1.48,0.5577,2024-06-30
 "GCM Grosvenor Co-Investment Opportunities Fund II, L.P.",GCM Grosvenor,gcm-grosvenor,https://fundraisingfox.com/investors/gcm-grosvenor,2018,opportunistic,multi_strategy,,0.259,2.36,1.0884,2025-09-30
-"GenNx360 Capital Partners III, LP",GenNx360,gennx360,https://fundraisingfox.com/investors/gennx360,2018,private_equity,buyout,,,2.00528,0.73417,2025-03-31
+"GenNx360 Capital Partners III, LP",GenNx360,gennx360-capital-partners,https://fundraisingfox.com/investors/gennx360-capital-partners,2018,private_equity,buyout,,,2.00528,0.73417,2025-03-31
 German Equity Partners V (ECM GEP V),,,,2018,private_equity,buyout,,0.1634,1.62,0.796122,2025-11-30
 GGV Discovery II L.P.,GGV,ggv-discovery-3,https://fundraisingfox.com/investors/ggv-discovery-3,2018,private_equity,venture_capital,,,1.49,0.0,2025-12-31
 GGV VII,,notable-capital,https://fundraisingfox.com/investors/notable-capital,2018,private_equity,venture_capital,,0.021,1.11,0.0474506,2025-06-30
@@ -2816,7 +2814,7 @@ Sixth Street Opportunities Partners IV (A),Sixth Street,sixth-street,https://fun
 "Spectrum Equity Investors VIII, L.P.",Spectrum,spectrum-equity,https://fundraisingfox.com/investors/spectrum-equity,2018,private_equity,growth_equity,,0.291,2.34,1.76828,2025-09-30
 Spectrum Equity VIII L.P.,Spectrum,spectrum-equity,https://fundraisingfox.com/investors/spectrum-equity,2018,private_equity,venture_capital,,0.306,2.48,1.52038,2024-12-31
 "Spectrum Equity VIII-A, L.P.",Spectrum,spectrum-equity,https://fundraisingfox.com/investors/spectrum-equity,2018,private_equity,venture_capital,,0.2959,2.2994,1.4503,2025-06-30
-"SSG Capital Partners V, L.P.",,ssg,https://fundraisingfox.com/investors/ssg,2018,private_equity,buyout,,0.15,1.17,1.04796,2025-09-30
+"SSG Capital Partners V, L.P.",,,,2018,private_equity,buyout,,0.15,1.17,1.04796,2025-09-30
 "StepStone Capital Partners IV, L.P.",,,,2018,private_equity,buyout,,0.17,2.06,0.6925,2025-09-30
 Stonepeak Spear (Co-Invest) Holdings,Stonepeak,stonepeak,https://fundraisingfox.com/investors/stonepeak,2018,real_assets,infrastructure,,0.112,,1.95689,2025-09-30
 "Storm Ventures Fund VI, L.P.",Storm Ventures,storm-ventures,https://fundraisingfox.com/investors/storm-ventures,2018,private_equity,venture_capital,,0.0339,1.16,0.0311,2025-09-30
@@ -2895,7 +2893,7 @@ Adams Street Global Secondary Fund 6,Adams Street,adams-street-partners,https://
 Aldrich Capital Partners Fund LP,Aldrich Capital Partners,aldrich,https://fundraisingfox.com/investors/aldrich,2017,private_equity,co_investment,,0.2172,2.44,1.1227,2025-09-30
 "Almanac Realty Securities Fund VIII, L.P.",Almanac Realty Securities,almanac-realty-securities,https://fundraisingfox.com/investors/almanac-realty-securities,2017,real_assets,real_estate_equity,,0.08,1.25,0.270755,2025-09-30
 "AlpInvest Co-Investment Fund (Onshore) VII, L.P.",,carlyle-group,https://fundraisingfox.com/investors/carlyle-group,2017,private_equity,co_investment,,0.1355,1.7702,0.64,2025-06-30
-Altaris IV,Altaris,altaris,https://fundraisingfox.com/investors/altaris,2017,private_equity,buyout,,0.229,2.03,1.02823,2025-09-30
+Altaris IV,Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,2017,private_equity,buyout,,0.229,2.03,1.02823,2025-09-30
 "Anchorage Illiquid Opportunities VI, L.P.",,,,2017,opportunistic,multi_strategy,,0.1398,1.7,1.1,2024-12-31
 "Apax Digital, L.P.",Apax,apax,https://fundraisingfox.com/investors/apax,2017,private_equity,growth_equity,,0.159,1.64,0.386306,2025-09-30
 "Apollo Accord Fund, LP",Apollo,apollo,https://fundraisingfox.com/investors/apollo,2017,private_credit,direct_lending,,0.0744,,1.11,2025-06-30
@@ -3129,7 +3127,7 @@ Sixth Street TAO 4.0 (B),Sixth Street,sixth-street,https://fundraisingfox.com/in
 "SL SPV-1, L.P.",,,,2017,private_equity,buyout,,0.031,1.24833,1.1743,2025-06-30
 Spark Capital Growth Fund II,,,,2017,private_equity,growth_equity,,0.181,2.09609,1.2637,2025-06-30
 "Sprott Private Resource Lending (US), LP",Sprott Private Resource Lending (US),sprott-private-resource-lending,https://fundraisingfox.com/investors/sprott-private-resource-lending,2017,private_credit,direct_lending,,0.108,1.19,1.1912,2024-06-30
-"SSG Capital Partners IV, L.P.",,ssg,https://fundraisingfox.com/investors/ssg,2017,private_equity,buyout,,0.0791,1.19579,0.9877,2025-06-30
+"SSG Capital Partners IV, L.P.",,,,2017,private_equity,buyout,,0.0791,1.19579,0.9877,2025-06-30
 "StepStone Tactical Growth Fund II, L.P.",StepStone Group,stepstone-group,https://fundraisingfox.com/investors/stepstone-group,2017,private_equity,growth_equity,,0.282,2.88,1.5382,2025-09-30
 Stockbridge RE III,Stockbridge,stockbridge-capital-group,https://fundraisingfox.com/investors/stockbridge-capital-group,2017,real_assets,real_estate_equity,,0.115,1.39,1.24879,2025-09-30
 Stonepeak Claremont Co-Invest,Stonepeak,stonepeak,https://fundraisingfox.com/investors/stonepeak,2017,real_assets,infrastructure,,0.178,,2.07836,2025-09-30
@@ -3191,7 +3189,7 @@ Advent International GPE VIII-D LP,Advent,advent-international,https://fundraisi
 Aether Real Assets IV,Aether Real Assets,aether-real-assets,https://fundraisingfox.com/investors/aether-real-assets,2016,private_equity,buyout,,,1.3,0.48,2025-12-31
 AG Asia Realty Fund III LP,Angelo Gordon,angelo-gordon,https://fundraisingfox.com/investors/angelo-gordon,2016,real_assets,real_estate_equity,,0.053,1.16,0.990286,2025-12-31
 "AG Pisgah, L.P.",Angelo Gordon,angelo-gordon,https://fundraisingfox.com/investors/angelo-gordon,2016,private_credit,direct_lending,,0.0792,1.54,0.78,2024-06-30
-Altaris Const III,Altaris,altaris,https://fundraisingfox.com/investors/altaris,2016,private_equity,buyout,,0.222,2.94,1.70122,2025-09-30
+Altaris Const III,Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,2016,private_equity,buyout,,0.222,2.94,1.70122,2025-09-30
 American Industrial Partners Capital Fund VI LP,,american-industrial-partners,https://fundraisingfox.com/investors/american-industrial-partners,2016,private_equity,buyout,,0.206,2.45,1.46664,2025-06-30
 American Securities Partners VII,American Securities,american-securities,https://fundraisingfox.com/investors/american-securities,2016,private_equity,buyout,,0.081,1.47,1.4726,2025-06-30
 "American Securities Partners VII, L.P.",American Securities,american-securities,https://fundraisingfox.com/investors/american-securities,2016,private_equity,buyout,,0.081,1.47,1.4726,2025-06-30
@@ -3296,7 +3294,7 @@ Highbridge Principle Strategies Kitty Hawk Credit Fund LP,Highbridge,highbridge,
 Highbridge Specialty Loan Fund,Highbridge,highbridge,https://fundraisingfox.com/investors/highbridge,2016,private_credit,direct_lending,,0.0958,1.24,0.96,2024-06-30
 Homestead Capital Farmland II,,homestead,https://fundraisingfox.com/investors/homestead,2016,real_assets,natural_resources,,0.028,1.16681,0.224785,2025-09-30
 Homestead Capital Farmland II NR,,homestead,https://fundraisingfox.com/investors/homestead,2016,real_assets,natural_resources,,0.024,1.05663,0.148254,2021-06-30
-"Hony Capital Fund VIII (Cayman), LP",,hony,https://fundraisingfox.com/investors/hony,2016,private_equity,buyout,,,1.12424,0.338463,2025-03-31
+"Hony Capital Fund VIII (Cayman), LP",,hony-capital-ltd,https://fundraisingfox.com/investors/hony-capital-ltd,2016,private_equity,buyout,,,1.12424,0.338463,2025-03-31
 Horsley Bridge XI Growth Buyout L.P.,Horsley Bridge,horsley-bridge-venture,https://fundraisingfox.com/investors/horsley-bridge-venture,2016,private_equity,venture_capital,,0.1016,1.2,,2019-12-31
 HPS Cardinal Fund LP Series A,,,,2016,private_credit,direct_lending,,0.0666,1.32,0.09,2024-06-30
 "Hudson River Co-Investment Fund III, LP",,,,2016,private_equity,co_investment,,,1.87667,0.673837,2025-03-31
@@ -3563,7 +3561,7 @@ DC Value Recovery Fund IV,,,,2015,opportunistic,distressed_debt,,,0.75,0.6,2025-
 DK SOF Fund III,,,,2015,private_equity,buyout,,0.0758,,1.1935,2024-12-31
 Dyal Capital Partners III,Dyal Capital,dyal-capital-partners,https://fundraisingfox.com/investors/dyal-capital-partners,2015,private_equity,secondaries,,,1.93106,1.1464,2025-03-31
 Dyal III Pension Investors LP,Dyal Capital,,,2015,private_equity,co_investment,,0.225,2.23,1.127,2024-12-31
-ECI 10 A LP,,eci,https://fundraisingfox.com/investors/eci,2015,opportunistic,tactical,,0.1942,2.26926,2.2036,2025-06-30
+ECI 10 A LP,,eci-partners,https://fundraisingfox.com/investors/eci-partners,2015,opportunistic,tactical,,0.1942,2.26926,2.2036,2025-06-30
 "Edison Venture Fund VIII, L.P.",Edison,edison-partners,https://fundraisingfox.com/investors/edison-partners,2015,private_equity,venture_capital,,0.1665,2.08,1.63,2025-06-30
 Encap Energy Capital Fund X,Encap Energy,encap-energy-capital-3,https://fundraisingfox.com/investors/encap-energy-capital-3,2015,real_assets,natural_resources,,0.153,2.0,1.72534,2025-09-30
 EnCap Energy Capital Fund X PE,Encap Energy,encap-energy-capital-3,https://fundraisingfox.com/investors/encap-energy-capital-3,2015,real_assets,natural_resources,,0.069,1.2269,0.358779,2021-06-30
@@ -3807,15 +3805,15 @@ AG Core Plus IV,Angelo Gordon,angelo-gordon,https://fundraisingfox.com/investors
 AG Core Plus Realty Fund IV,Angelo Gordon,angelo-gordon,https://fundraisingfox.com/investors/angelo-gordon,2014,real_assets,real_estate_equity,,0.024,1.12,0.859155,2025-09-30
 AG Realty Fund IX,Angelo Gordon,tpg,https://fundraisingfox.com/investors/tpg,2014,real_assets,real_estate_equity,,0.048,1.25,1.05002,2025-12-31
 Alchemy Special Opportunities Fund III,Alchemy Special,the-alchemy-fund,https://fundraisingfox.com/investors/the-alchemy-fund,2014,opportunistic,special_situations,,0.0753,1.53599,1.1556,2025-06-30
-Altaris Health Partners III,Altaris,altaris,https://fundraisingfox.com/investors/altaris,2014,private_equity,buyout,,0.214,2.03,2.0303,2025-06-30
-Altaris III,Altaris,altaris,https://fundraisingfox.com/investors/altaris,2014,private_equity,buyout,,0.236,2.41,1.71097,2025-09-30
+Altaris Health Partners III,Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,2014,private_equity,buyout,,0.214,2.03,2.0303,2025-06-30
+Altaris III,Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,2014,private_equity,buyout,,0.236,2.41,1.71097,2025-09-30
 Angelo Gordon Realty Fund IX,Angelo Gordon,,,2014,real_assets,real_estate_equity,,0.078,1.22,1.01,2025-09-30
 "Apollo Credit Opportunities Fund III, LP",Apollo,apollo,https://fundraisingfox.com/investors/apollo,2014,opportunistic,multi_strategy,,0.015,1.038,1.037,2025-06-30
 ArcLight Energy VI,,,,2014,real_assets,natural_resources,,0.038,1.1992,0.935843,2025-09-30
 "Ascribe Opportunities Fund III, L.P.",Ascribe,ascribe,https://fundraisingfox.com/investors/ascribe,2014,opportunistic,multi_strategy,,-0.2015,0.85,0.85,2025-09-30
 "ASF Miller Direct B, LP",,,,2014,private_equity,buyout,,,1.45226,1.45226,2025-03-31
-ASF VI B NYC Co-Invest,,,,2014,real_assets,infrastructure,,0.113,1.47,1.3222,2025-06-30
 ASF VI B NYC Co-Invest,Ardian,ardian,https://fundraisingfox.com/investors/ardian,2014,real_assets,infrastructure,,0.113,1.47,1.3222,2025-06-30
+ASF VI B NYC Co-Invest,,,,2014,real_assets,infrastructure,,0.113,1.47,1.3222,2025-06-30
 ASF VI B NYC Co-Invest Vista Equity,,,,2014,real_assets,infrastructure,,0.102,,,2025-06-30
 "ASF VI NYC Co-Invest, L.P.",,,,2014,real_assets,infrastructure,,0.1131,1.47,1.3346,2025-06-30
 "Asia Alternatives Capital Partners IV, LP",Asia Alternatives,asia-alternatives-management,https://fundraisingfox.com/investors/asia-alternatives-management,2014,private_equity,buyout,,,1.59701,0.759929,2025-03-31
@@ -3890,7 +3888,7 @@ FP Venture 2014,,,,2014,private_equity,venture_capital,,0.179,3.32,1.32642,2025-
 FS Equity Partners VII LP,Freeman Spogli,freeman-spogli,https://fundraisingfox.com/investors/freeman-spogli,2014,private_equity,buyout,,0.085,1.56,0.910997,2025-06-30
 Garrison Opportunity Fund IV,,,,2014,opportunistic,multi_strategy,,-0.0042,0.99,0.902705,2025-11-30
 "GCM Grosvenor DEM II, L.P.",GCM Grosvenor,gcm-grosvenor,https://fundraisingfox.com/investors/gcm-grosvenor,2014,private_equity,fund_of_funds,,0.149,1.73107,1.0115,2025-06-30
-"GenNx360 Capital Partners II, L.P.",GenNx360,gennx360,https://fundraisingfox.com/investors/gennx360,2014,private_equity,buyout,,,1.86711,1.59626,2025-03-31
+"GenNx360 Capital Partners II, L.P.",GenNx360,gennx360-capital-partners,https://fundraisingfox.com/investors/gennx360-capital-partners,2014,private_equity,buyout,,,1.86711,1.59626,2025-03-31
 GGV V,,notable-capital,https://fundraisingfox.com/investors/notable-capital,2014,private_equity,venture_capital,,0.242,5.0,2.83472,2025-06-30
 "GI Partners Fund IV, L.P.",GI Partners,gi-partners,https://fundraisingfox.com/investors/gi-partners,2014,private_equity,buyout,,0.14,2.09,1.56932,2025-09-30
 Glendon Opportunities Fund,,glendon-opp,https://fundraisingfox.com/investors/glendon-opp,2014,opportunistic,multi_strategy,,0.085,0.831547,0.1296,2025-06-30
@@ -4050,7 +4048,7 @@ Sovereign Capital IV PE,,sovereign-capital-partners,https://fundraisingfox.com/i
 Spark Capital Growth Fund,,,,2014,private_equity,growth_equity,,0.293,1.44312,1.109,2025-06-30
 "Spectrum Equity Investors VII, L.P.",Spectrum,spectrum-equity,https://fundraisingfox.com/investors/spectrum-equity,2014,private_equity,growth_equity,,0.352,3.5,2.98961,2025-09-30
 "Spectrum Equity VII, L.P.",Spectrum,spectrum-equity,https://fundraisingfox.com/investors/spectrum-equity,2014,private_equity,venture_capital,,0.3722,3.73392,2.8185,2025-06-30
-"SSG Capital Partners III, L.P.",,ssg,https://fundraisingfox.com/investors/ssg,2014,private_equity,buyout,,0.0825,1.25524,1.2411,2025-06-30
+"SSG Capital Partners III, L.P.",,,,2014,private_equity,buyout,,0.0825,1.25524,1.2411,2025-06-30
 SSG III,SSG Capital Management,,,2014,private_equity,buyout,,0.082,1.219,1.209,2025-09-30
 Starwood X,Starwood,starwood-capital-group,https://fundraisingfox.com/investors/starwood-capital-group,2014,real_assets,real_estate_equity,,0.131,1.37,1.27273,2025-09-30
 "StepStone Capital Partners III, L.P.",,,,2014,private_equity,buyout,,0.163,1.89,1.5401,2025-09-30
@@ -4168,7 +4166,7 @@ DFJ Growth 2013,,,,2013,private_equity,growth_equity,,0.332624,6.54041,4.8054,20
 "DRA Growth & Income Fund VIII, LLC",DRA,dra-advisors,https://fundraisingfox.com/investors/dra-advisors,2013,private_equity,growth_equity,,0.0443,1.16,1.07,2024-06-30
 "DRA Growth and Income Fund VIII, LLC",,dra-advisors,https://fundraisingfox.com/investors/dra-advisors,2013,private_equity,growth_equity,,0.039,1.15,1.11969,2025-09-30
 "Drug Royalty III, L.P. 1",,,,2013,private_credit,specialty_finance,,0.0914,1.22,1.22,2025-06-30
-Dune III,Dune,dune,https://fundraisingfox.com/investors/dune,2013,opportunistic,tactical,,0.022,1.11,0.978417,2025-09-30
+Dune III,Dune,dune-ventures,https://fundraisingfox.com/investors/dune-ventures,2013,opportunistic,tactical,,0.022,1.11,0.978417,2025-09-30
 EIG Energy Fund XVI,Eig Energy,eig-global-energy-partners,https://fundraisingfox.com/investors/eig-global-energy-partners,2013,real_assets,natural_resources,,0.023,1.12,0.767171,2025-12-31
 "EIG Energy XVI, L.P.",Eig Energy,eig-global-energy-partners,https://fundraisingfox.com/investors/eig-global-energy-partners,2013,real_assets,natural_resources,,0.0279,1.15,0.74,2025-06-30
 EnCap Energy Fund IX,Encap Energy,encap-energy-capital-3,https://fundraisingfox.com/investors/encap-energy-capital-3,2013,real_assets,natural_resources,,0.108,1.55,1.35523,2025-12-31
@@ -4545,7 +4543,7 @@ Siguler Guff Dreof,,siguler-guff,https://fundraisingfox.com/investors/siguler-gu
 Silverback Arbitrage Fund,,silverback-asset-management,https://fundraisingfox.com/investors/silverback-asset-management,2012,private_credit,direct_lending,,0.0172,1.14,0.64,2024-06-30
 "Sixth Street Opportunities Partners II, L.P.",Sixth Street,sixth-street,https://fundraisingfox.com/investors/sixth-street,2012,private_equity,buyout,,0.1643,1.7,1.73462,2025-09-30
 "Sprott Private Resource Lending II (US), LP",Sprott Private Resource Lending,sprott-private-resource-lending,https://fundraisingfox.com/investors/sprott-private-resource-lending,2012,private_credit,direct_lending,,0.1128,1.9172,1.43143,2025-12-31
-"SSG Capital Partners II, L.P.",,ssg,https://fundraisingfox.com/investors/ssg,2012,private_equity,buyout,,0.0410236,1.16457,1.1646,2024-12-31
+"SSG Capital Partners II, L.P.",,,,2012,private_equity,buyout,,0.0410236,1.16457,1.1646,2024-12-31
 Stepstone Secondary Opportunities Fund II,,,,2012,opportunistic,multi_strategy,,0.091,1.7977,0.0171,2025-06-30
 Stonetree IV,,,,2012,opportunistic,tactical,,0.065,1.46,0.4615,2020-12-31
 Strategic Investors Fund V-A Opportunity LP,,,,2012,private_equity,buyout,,0.253,6.49,5.29229,2025-06-30
@@ -4692,7 +4690,7 @@ HarbourVest IX-Credit,,,,2011,private_equity,venture_capital,,0.118,1.635,1.188,
 HarbourVest IX-Venture,,,,2011,private_equity,venture_capital,,0.206,1.373,0.279,2024-09-30
 "Harvest Partners VI, L.P.",,,,2011,private_equity,buyout,,0.2061,2.09,1.94,2024-06-30
 Hellman & Friedman Capital Partners VII,Hellman & Friedman,hellman-friedman,https://fundraisingfox.com/investors/hellman-friedman,2011,private_equity,buyout,,0.248,3.31,3.23811,2025-12-31
-Hony Capital Fund V,,hony,https://fundraisingfox.com/investors/hony,2011,private_equity,buyout,,-0.0389,0.735536,0.4937,2025-06-30
+Hony Capital Fund V,,hony-capital-ltd,https://fundraisingfox.com/investors/hony-capital-ltd,2011,private_equity,buyout,,-0.0389,0.735536,0.4937,2025-06-30
 "Hudson River Co-Investment Fund II, LP",,,,2011,private_equity,co_investment,,,2.23564,1.94961,2025-03-31
 "ICG Europe Fund V, L.P.",ICG,intermediate-capital-group,https://fundraisingfox.com/investors/intermediate-capital-group,2011,private_equity,buyout,,0.079,1.29,1.24334,2025-09-30
 "Incline Equity Partners III (PSERS), L.P.",,incline,https://fundraisingfox.com/investors/incline,2011,private_equity,buyout,,0.349,2.71,2.70228,2025-09-30
@@ -4747,7 +4745,7 @@ Pathway,,pathway-capital-management,https://fundraisingfox.com/investors/pathway
 "Patria-Brazilian Private Equity Fund IV, LP",,,,2011,real_assets,infrastructure,,,0.744643,0.156248,2025-03-31
 Pegasus Partners V,Pegasus,pegasus-capital,https://fundraisingfox.com/investors/pegasus-capital,2011,private_equity,buyout,,-0.014,0.95,0.9508,2025-06-30
 "Pegasus Partners V, L.P.",,,,2011,private_equity,buyout,,-0.014,0.95,0.9508,2025-06-30
-Perella Weinberg Partners ABV Opportunity Fund III LP,Perella Weinberg,perella-weinberg,https://fundraisingfox.com/investors/perella-weinberg,2011,opportunistic,multi_strategy,,0.0088,,,2024-06-30
+Perella Weinberg Partners ABV Opportunity Fund III LP,Perella Weinberg,,,2011,opportunistic,multi_strategy,,0.0088,,,2024-06-30
 Perseus Work Flow,Perseus,perseus,https://fundraisingfox.com/investors/perseus,2011,private_equity,buyout,,-0.969,0.0,0.0,2020-06-30
 PIMCO BRAVO,Pimco,pimco-europe,https://fundraisingfox.com/investors/pimco-europe,2011,private_equity,fund_of_funds,,0.219,1.8,1.79423,2025-06-30
 "Pomona Capital VII (Combined), L.P.",,pomona-capital,https://fundraisingfox.com/investors/pomona-capital,2011,private_equity,buyout,,0.079,1.31,1.3077,2021-12-31
@@ -4799,8 +4797,8 @@ Trustbridge Partners IV L.P.,Trustbridge,trustbridge-partners,https://fundraisin
 Union Square Ventures 2012,Union Square Ventures,union-square-ventures-usv,https://fundraisingfox.com/investors/union-square-ventures-usv,2011,private_equity,venture_capital,,0.535,23.78,23.0171,2025-09-30
 VARDE FUND X LP,,the-varde,https://fundraisingfox.com/investors/the-varde,2011,opportunistic,distressed_debt,,0.1,1.74,1.70347,2025-12-31
 Vermillion Celadon,,,,2011,real_assets,infrastructure,,0.0076,,,2024-06-30
-Vista Equity Partners Fund IV,,,,2011,private_equity,buyout,,0.131,1.99,1.3454,2025-09-30
 Vista Equity Partners Fund IV,Vista Equity,vista-equity-partners,https://fundraisingfox.com/investors/vista-equity-partners,2011,private_equity,buyout,,0.136,1.98,1.3047,2025-06-30
+Vista Equity Partners Fund IV,,,,2011,private_equity,buyout,,0.131,1.99,1.3454,2025-09-30
 "Warburg Pincus Private Equity Fund XII, L.P.",Warburg Pincus,warburg-pincus,https://fundraisingfox.com/investors/warburg-pincus,2011,private_equity,growth_equity,,,2.08,1.43,2025-09-30
 Waterland Private Equity Fund V C V,,waterland,https://fundraisingfox.com/investors/waterland,2011,private_equity,buyout,,0.35,2.95,3.05035,2024-12-31
 "WCP Real Estate Fund III(A), L.P.",Wcp,wcp,https://fundraisingfox.com/investors/wcp,2011,real_assets,real_estate_equity,,0.0891,1.65,1.51,2024-06-30
@@ -4923,7 +4921,7 @@ Mason Wells III,Mason Wells,mason-wells,https://fundraisingfox.com/investors/mas
 Merced Partners III,Merced,merced-capital,https://fundraisingfox.com/investors/merced-capital,2010,private_equity,buyout,,0.055,1.3,1.2883,2022-06-30
 "Merit Mezzanine Fund V, L.P.",,,,2010,private_credit,mezzanine,,0.106,1.79,1.58404,2025-12-31
 "Millennium Technology Value Partners II, L.P.",,,,2010,private_equity,secondaries,,0.043,1.31,1.0607,2025-09-30
-Newstone Capital Partners II,,newstone-capital-partners,https://fundraisingfox.com/investors/newstone-capital-partners,2010,private_credit,mezzanine,,,1.22,1.22171,2025-09-30
+Newstone Capital Partners II,Newstone Capital Partners,newstone-capital-partners,https://fundraisingfox.com/investors/newstone-capital-partners,2010,private_credit,mezzanine,,,1.22,1.22171,2025-09-30
 Newstone II,,newstone-capital-partners,https://fundraisingfox.com/investors/newstone-capital-partners,2010,private_equity,buyout,,0.094,1.24,1.24576,2025-09-30
 Nutmeg Opportunities Fund L.P. CT SMMBF,,,,2010,opportunistic,multi_strategy,,0.1442,2.1,1.6,2024-09-30
 Nutmeg Opportunities Fund L.P.CT EM,,,,2010,opportunistic,multi_strategy,,0.1216,2.7,1.3,2024-09-30
@@ -5131,7 +5129,7 @@ AG Growth Capital Partners I LP,,,,2008,private_equity,growth_equity,,0.0528,1.3
 Aisling Capital III,Aisling,aisling-capital,https://fundraisingfox.com/investors/aisling-capital,2008,private_equity,venture_capital,,0.264,2.38,2.381,2025-06-30
 "Aisling Capital III, L.P.",Aisling,aisling-capital,https://fundraisingfox.com/investors/aisling-capital,2008,private_equity,venture_capital,,0.265,2.38,2.37943,2025-09-30
 "Almanac Realty Securities V, LP",Almanac Realty Securities,almanac-realty-securities,https://fundraisingfox.com/investors/almanac-realty-securities,2008,real_assets,real_estate_equity,,0.117,1.54,1.53901,2025-09-30
-"Altaris Health Partners II, L.P.",Altaris,altaris,https://fundraisingfox.com/investors/altaris,2008,private_equity,buyout,,0.2515,2.2,2.2,2024-09-30
+"Altaris Health Partners II, L.P.",Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,2008,private_equity,buyout,,0.2515,2.2,2.2,2024-09-30
 "Apollo Credit Opportunity Fund I, L.P.",Apollo,apollo,https://fundraisingfox.com/investors/apollo,2008,opportunistic,multi_strategy,,0.274,2.59298,2.593,2020-09-30
 "Apollo European Principal Finance Fund, L.P.",Apollo,apollo,https://fundraisingfox.com/investors/apollo,2008,opportunistic,distressed_debt,,0.119,1.21538,1.2147,2025-06-30
 Apollo Investment Fund VII,Apollo,apollo,https://fundraisingfox.com/investors/apollo,2008,private_equity,buyout,,0.226,1.75,1.7461,2025-06-30
@@ -5153,7 +5151,7 @@ Bain Capital X (Co-investment),Bain,bain-capital,https://fundraisingfox.com/inve
 "Bain Sankaty Credit Opportunities IV, L.P.",,sankaty,https://fundraisingfox.com/investors/sankaty,2008,opportunistic,multi_strategy,,0.115,1.43,1.27141,2016-12-31
 "Bain Sankaty Credit Opportunitil5 IV, L.P.",,sankaty,https://fundraisingfox.com/investors/sankaty,2008,private_credit,,,0.43,,0.000431078,2016-06-30
 "Banc Fund VIII, L.P.",,the-banc-funds-company,https://fundraisingfox.com/investors/the-banc-funds-company,2008,private_equity,growth_equity,,0.1273,2.1,2.14853,2025-09-30
-Barings Core Property Fund LP,Barings,barings,https://fundraisingfox.com/investors/barings,2008,real_assets,real_estate_equity,,0.048,1.52,1.06,2024-12-31
+Barings Core Property Fund LP,Barings,barings-bdc,https://fundraisingfox.com/investors/barings-bdc,2008,real_assets,real_estate_equity,,0.048,1.52,1.06,2024-12-31
 "Bayview Opportunity Master Fund II-B, L.P.",,,,2008,private_equity,buyout,,0.181,1.51,1.5079,2024-06-30
 BENSON ELLIOT REAL ESTATE PARTNERS III LP,BENSON ELLIOT,benson-elliot,https://fundraisingfox.com/investors/benson-elliot,2008,real_assets,real_estate_equity,,0.0327,1.12,1.02,2024-06-30
 "Blackstone Real Estate Partners Europe III, L.P.",Blackstone,the-blackstone-group,https://fundraisingfox.com/investors/the-blackstone-group,2008,real_assets,real_estate_equity,,0.106,1.46,1.42633,2025-09-30
@@ -5175,7 +5173,7 @@ CDK Southern Cross,,,,2008,opportunistic,multi_strategy,,-0.201,0.0,0.0,2025-09-
 Cerberus Institutional (INTL) Series 1,,cerberus,https://fundraisingfox.com/investors/cerberus,2008,private_equity,buyout,,0.1041,1.7184,1.7098,2025-06-30
 Charterhouse Capital Partners IX,Charterhouse,charterhouse-capital-partners,https://fundraisingfox.com/investors/charterhouse-capital-partners,2008,private_equity,buyout,,0.094,1.3,1.34188,2025-09-30
 "Chicago Growth Partners II, L.P.",,,,2008,private_equity,growth_equity,,0.195,2.12,2.124,2023-09-30
-"Clarus Lifesciences II, L.P.",Clarus Lifesciences,clarus,https://fundraisingfox.com/investors/clarus,2008,private_equity,venture_capital,,0.147,1.84413,1.7869,2021-09-30
+"Clarus Lifesciences II, L.P.",Clarus Lifesciences,clarus-ventures,https://fundraisingfox.com/investors/clarus-ventures,2008,private_equity,venture_capital,,0.147,1.84413,1.7869,2021-09-30
 Clean Tech Private Equity II Co-Investments LP,,,,2008,private_equity,buyout,,0.0062,,,2024-06-30
 Clean Tech Private Equity II LP,,,,2008,private_equity,buyout,,0.0062,,,2024-06-30
 Coral's 2007 Institutional Momentum Fund,Coral's 2007 Institutional Momentum,coral-s-2007-institutional-momentum,https://fundraisingfox.com/investors/coral-s-2007-institutional-momentum,2008,opportunistic,tactical,,-0.151,0.38,0.3807,2025-06-30
@@ -5196,7 +5194,7 @@ CVC European Equity Partners V-A LP,CVC,,,2008,private_equity,buyout,,0.167,1.99
 Dlj Recp IV,,dlj-recp,https://fundraisingfox.com/investors/dlj-recp,2008,private_equity,buyout,,0.02,1.06,0.84,2025-09-30
 DMR Mortgage Opportunity Companion Fund,,,,2008,real_assets,real_estate_debt,,0.453,1.35,1.3457,2025-06-30
 "Domain Environmental Investments II, L.P.",Domain Capital Group,,,2008,real_assets,natural_resources,,-0.0281,0.8,0.7245,2025-06-30
-ECI 9 A L.P.,,eci,https://fundraisingfox.com/investors/eci,2008,opportunistic,tactical,,0.2252,2.1254,2.1254,2022-06-30
+ECI 9 A L.P.,,eci-partners,https://fundraisingfox.com/investors/eci-partners,2008,opportunistic,tactical,,0.2252,2.1254,2.1254,2022-06-30
 EISAF II LP,,,,2008,private_credit,direct_lending,,0.197,1.1,0.3572,2021-12-31
 Element Partners Fund II,,,,2008,private_equity,buyout,,0.059,1.8622,1.1454,2025-06-30
 Emerald Infrastructure Development Fund,,,,2008,real_assets,infrastructure,,-0.994,0.01,0.0056,2025-06-30
@@ -5222,8 +5220,8 @@ GCM Grosvenor - NC Investment Fund,GCM Grosvenor,gcm-grosvenor,https://fundraisi
 GCM Grosvenor NYCPPF Emerging Manager Co-Investment Fund,GCM Grosvenor,gcm-grosvenor,https://fundraisingfox.com/investors/gcm-grosvenor,2008,private_equity,fund_of_funds,,0.137,1.75,1.7504,2025-06-30
 GCM Grosvenor NYCPPF Emerging Manager Fund,GCM Grosvenor,gcm-grosvenor,https://fundraisingfox.com/investors/gcm-grosvenor,2008,private_equity,fund_of_funds,,0.086,1.45,1.4506,2025-06-30
 "GCM Grosvenor TRSCNY Emerging Manager Fund, L.P.",GCM Grosvenor,gcm-grosvenor,https://fundraisingfox.com/investors/gcm-grosvenor,2008,private_equity,fund_of_funds,,0.0916,1.51,1.27,2024-12-31
-"GenNx360 Capital Partners, LP",GenNx360,gennx360,https://fundraisingfox.com/investors/gennx360,2008,private_equity,buyout,,,0.891913,0.8209,2024-03-31
-"GenNx360 Capital Partners, LP*",GenNx360,gennx360,https://fundraisingfox.com/investors/gennx360,2008,private_equity,buyout,,,0.889902,0.889902,2025-03-31
+"GenNx360 Capital Partners, LP",GenNx360,gennx360-capital-partners,https://fundraisingfox.com/investors/gennx360-capital-partners,2008,private_equity,buyout,,,0.891913,0.8209,2024-03-31
+"GenNx360 Capital Partners, LP*",GenNx360,gennx360-capital-partners,https://fundraisingfox.com/investors/gennx360-capital-partners,2008,private_equity,buyout,,,0.889902,0.889902,2025-03-31
 GI Partners Fund III,GI Partners,gi-partners,https://fundraisingfox.com/investors/gi-partners,2008,private_equity,buyout,,0.13,1.57,1.568,2025-06-30
 Giza Venture Fund V,,,,2008,private_equity,venture_capital,,0.2042,1.99272,1.9927,2023-06-30
 Global Infrastructure Partners,GIP,gip,https://fundraisingfox.com/investors/gip,2008,real_assets,infrastructure,,0.172,2.02894,2.02685,2025-09-30
@@ -5241,7 +5239,7 @@ H.I.G. Bayside II,H.I.G. Capital,h-i-g-capital,https://fundraisingfox.com/invest
 HarbourVest Int'l VI5,,,,2008,private_equity,fund_of_funds,,0.136,2.139,1.709,2024-09-30
 HM Capital Sector Performance Fund,HM Capital Partners,hm-capital-partners,https://fundraisingfox.com/investors/hm-capital-partners,2008,opportunistic,multi_strategy,,-0.04,0.9,0.859683,2024-12-31
 HMCapital Sector Performance Fund,,,,2008,private_equity,buyout,,-0.04,0.9,0.859683,2025-09-30
-"Hony Capital Fund 2008, L.P.",,hony,https://fundraisingfox.com/investors/hony,2008,private_equity,buyout,,-0.0514,0.680373,0.5886,2025-06-30
+"Hony Capital Fund 2008, L.P.",,hony-capital-ltd,https://fundraisingfox.com/investors/hony-capital-ltd,2008,private_equity,buyout,,-0.0514,0.680373,0.5886,2025-06-30
 "Horsley Bridge International V, L.P.",Horsley Bridge,horsley-bridge-venture,https://fundraisingfox.com/investors/horsley-bridge-venture,2008,private_equity,venture_capital,,0.1774,3.65,1.85,2024-06-30
 "Horsley Bridge IX, L.P.",Horsley Bridge,horsley-bridge-venture,https://fundraisingfox.com/investors/horsley-bridge-venture,2008,private_equity,venture_capital,,0.1953,3.76,2.89,2024-06-30
 "Huntsman Gay Capital Partners Fund, LP",Huntsman Gay,huntsman-gay,https://fundraisingfox.com/investors/huntsman-gay,2008,private_equity,buyout,,0.0998,1.34583,1.3458,2025-06-30
@@ -5319,7 +5317,7 @@ Quintana Energy II Co-Invest,QUINTANA RESOURCES HOLDINGS LP,quintana-resources-h
 "RCP Advisors Fund VIII, L.P.",,rcp,https://fundraisingfox.com/investors/rcp,2008,private_equity,buyout,,0.223,2.31,1.3341,2021-12-31
 RCP Fund VI LP,,rcp,https://fundraisingfox.com/investors/rcp,2008,private_equity,buyout,,0.158,2.07,2.05858,2025-06-30
 Relativity Fund,Relativity,relativity,https://fundraisingfox.com/investors/relativity,2008,private_equity,buyout,,-0.108,0.5,0.5003,2025-06-30
-"RFE Investment Partners VII, LP",RFE,rfe,https://fundraisingfox.com/investors/rfe,2008,private_equity,buyout,,0.0794,1.8,1.7575,2024-12-31
+"RFE Investment Partners VII, LP",RFE,rfe-investment-partners,https://fundraisingfox.com/investors/rfe-investment-partners,2008,private_equity,buyout,,0.0794,1.8,1.7575,2024-12-31
 Riverside Capital Appreciation Fund V LP,,the-riverside-company,https://fundraisingfox.com/investors/the-riverside-company,2008,private_equity,buyout,,0.076,1.34,1.33587,2025-09-30
 Riverstone-Carlyle Global Energy and Power Fund IV,Riverstone Global Energy and Power,riverstone-global-energy-and-power,https://fundraisingfox.com/investors/riverstone-global-energy-and-power,2008,real_assets,natural_resources,,0.021,1.08,1.0811,2025-06-30
 Riverstone-Carlyle RAE Fund II,Riverstone/Carlyle Global Energy & Power,riverstone-carlyle-global-energy-power,https://fundraisingfox.com/investors/riverstone-carlyle-global-energy-power,2008,private_equity,buyout,,0.01,1.05,1.04787,2025-09-30
@@ -5734,7 +5732,7 @@ CENTERBRIDGE CAPITAL PARTNERS LP,Centerbridge,centerbridge-partners-l-p,https://
 CHP III,CHP,chp,https://fundraisingfox.com/investors/chp,2006,opportunistic,tactical,,0.124,3.00094,2.9397,2025-06-30
 "CIM Urban REIT, LLC",CIM Urban REIT,cim-urban-reit,https://fundraisingfox.com/investors/cim-urban-reit,2006,real_assets,real_estate_equity,,0.0438,1.43,1.41,2024-06-30
 Clarion 4100 Harry Hines Land,,clarion-partners,https://fundraisingfox.com/investors/clarion-partners,2006,real_assets,real_estate_equity,,0.017,1.2,1.1775,2025-09-30
-"Clarus Lifesciences I, L.P.",Clarus Lifesciences,clarus,https://fundraisingfox.com/investors/clarus,2006,private_equity,venture_capital,,0.04,1.26384,1.1494,2021-09-30
+"Clarus Lifesciences I, L.P.",Clarus Lifesciences,clarus-ventures,https://fundraisingfox.com/investors/clarus-ventures,2006,private_equity,venture_capital,,0.04,1.26384,1.1494,2021-09-30
 "Clearwater Capital Partners Fund III, L.P.",Clearwater,clearwater-capital-partners,https://fundraisingfox.com/investors/clearwater-capital-partners,2006,private_equity,buyout,,0.016,1.11221,1.0369,2025-06-30
 CLP 2014,CLP 2014,clp-2014-fka-perseus,https://fundraisingfox.com/investors/clp-2014-fka-perseus,2006,private_equity,buyout,,-0.207,0.39,0.3932,2025-06-30
 CLP 2014 (fka Perseus Partners VII),,clp-2014-fka-perseus,https://fundraisingfox.com/investors/clp-2014-fka-perseus,2006,private_equity,buyout,,0.03856,8.88,0.3932,2021-12-31
@@ -5936,8 +5934,8 @@ Syncom Venture PE,Syncom,syncom-venture-partners,https://fundraisingfox.com/inve
 "TA X, L.P.",TA Associates,ta-associates,https://fundraisingfox.com/investors/ta-associates,2006,private_equity,growth_equity,,0.0518539,1.29715,1.2971,2024-12-31
 TCV VI,TCV,tcv,https://fundraisingfox.com/investors/tcv,2006,private_equity,venture_capital,,0.124,1.58,1.5743,2025-09-30
 TCW Crescent Mezzanine Partners IV,TCW/Crescent Mezzanine,crescent-capital-group,https://fundraisingfox.com/investors/crescent-capital-group,2006,private_credit,mezzanine,,0.022,1.1,1.09487,2025-09-30
-Terra Firma Capital Partners III,,terra-firma-capital-partners,https://fundraisingfox.com/investors/terra-firma-capital-partners,2006,private_equity,buyout,,-0.101,0.43,0.42839,2025-09-30
 Terra Firma Capital Partners III,Terra Firma,terra-firma,https://fundraisingfox.com/investors/terra-firma,2006,private_equity,buyout,,-0.101,0.43,0.42839,2025-06-30
+Terra Firma Capital Partners III,,terra-firma-capital-partners,https://fundraisingfox.com/investors/terra-firma-capital-partners,2006,private_equity,buyout,,-0.101,0.43,0.42839,2025-09-30
 The Fourth Cinven Fund,The Fourth Cinven,cinven,https://fundraisingfox.com/investors/cinven,2006,private_equity,buyout,,0.075,1.46,1.45622,2025-09-30
 Thoma Cressey Fund VIII LP,Thoma Cressey,thoma-cressey-equity-partners,https://fundraisingfox.com/investors/thoma-cressey-equity-partners,2006,private_equity,buyout,,0.183,2.93,2.9262,2025-06-30
 Thomas H. Lee Equity Fund VI LP,,thomas-h-lee-partners,https://fundraisingfox.com/investors/thomas-h-lee-partners,2006,private_equity,buyout,,0.07,1.38072,1.3807,2025-06-30
@@ -6201,7 +6199,7 @@ Adams Street Partnership Fund 2009 Non U.S. Develop,Adams Street,adams-street-pa
 Adams Street Partnership Fund 2009 Non U.S. Emergin,Adams Street,adams-street-partners,https://fundraisingfox.com/investors/adams-street-partners,2004,private_equity,buyout,,,1.83,1.38,2025-12-31
 Adams Street Partnership Fund 2009 U.S. Fund,Adams Street,adams-street-partners,https://fundraisingfox.com/investors/adams-street-partners,2004,private_equity,buyout,,,2.37,2.04,2025-12-31
 "Affinity Ventures IV, L.P.",Affinity,affinity-equity-partners,https://fundraisingfox.com/investors/affinity-equity-partners,2004,private_equity,venture_capital,,-0.349,0.39,0.3855,2023-09-30
-"Altaris Health Partners, L.P.",Altaris,altaris,https://fundraisingfox.com/investors/altaris,2004,private_equity,buyout,,0.1331,1.7,1.7,2024-09-30
+"Altaris Health Partners, L.P.",Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,2004,private_equity,buyout,,0.1331,1.7,1.7,2024-09-30
 "ArcLight Energy Partners Fund II, L.P.1",Arclight Energy,,,2004,real_assets,natural_resources,,0.163,1.41436,1.4129,2016-06-30
 "Ardian LBO Fund VI, L.P",Ardian,ardian,https://fundraisingfox.com/investors/ardian,2004,private_equity,buyout,,0.1,1.34,0.4673,2021-12-31
 Aurora Equity Partners III,Aurora,aurora-capital-partners,https://fundraisingfox.com/investors/aurora-capital-partners,2004,private_equity,buyout,,0.132,1.65,1.64695,2025-09-30
@@ -6857,7 +6855,7 @@ HarbourVest International Private Equity Partners III - Partnership,HarbourVest 
 HarbourVest Partners V - Investment Program,,,,1997,private_equity,buyout,,0.093,1.42,1.42041,2025-09-30
 "Harvest Partners III, L.P.",,,,1997,private_equity,buyout,,-0.0982,0.56,0.56,2025-09-30
 HSBC Private Equity Fund II,,,,1997,private_equity,buyout,,0.082,1.33,1.32756,2025-09-30
-Hummer Winblad Venture Partners III,HUMMER WINBLAD,hummer-winblad-venture-partners,https://fundraisingfox.com/investors/hummer-winblad-venture-partners,1997,private_equity,venture_capital,,0.01,1.04,1.0393,2020-06-30
+Hummer Winblad Venture Partners III,HUMMER WINBLAD,hummer-winblad-venture-partners-hwvp,https://fundraisingfox.com/investors/hummer-winblad-venture-partners-hwvp,1997,private_equity,venture_capital,,0.01,1.04,1.0393,2020-06-30
 "InterWest Partners VI, L.P.",,,,1997,private_equity,venture_capital,,0.488,3.0,2.97175,2025-09-30
 "KKR 1996 Fund, LP",KKR,kohlberg-kravis-roberts,https://fundraisingfox.com/investors/kohlberg-kravis-roberts,1997,private_equity,buyout,,0.132,1.6,1.61738,2025-09-30
 Latin America Capital Partners II,,,,1997,private_equity,buyout,,-0.037,0.8,0.796368,2020-06-30
@@ -7121,7 +7119,7 @@ ALMANAC RE SECURITIES IX SC,Almanac Realty Securities,almanac-realty-securities,
 ALMANAC REALTY SEC VIII SC,Almanac Realty Securities,almanac-realty-securities,https://fundraisingfox.com/investors/almanac-realty-securities,,real_assets,real_estate_equity,,,1.12,,2024-06-30
 Alpine Investors Fund VII,Alpine Investors,alpine-investors,https://fundraisingfox.com/investors/alpine-investors,,private_equity,buyout,,,2.65229,1.78497,2025-09-30
 Alpine Investors Fund VIII,Alpine Investors,alpine-investors,https://fundraisingfox.com/investors/alpine-investors,,private_equity,buyout,,,1.4575,0.069459,2025-09-30
-"Altaris V-4042, L.P.",Altaris,altaris,https://fundraisingfox.com/investors/altaris,,private_equity,buyout,,0.0293,1.07184,,2025-12-31
+"Altaris V-4042, L.P.",Altaris,altaris-capital-partners,https://fundraisingfox.com/investors/altaris-capital-partners,,private_equity,buyout,,0.0293,1.07184,,2025-12-31
 Alternative Credit Co‐Investments,,,,,private_credit,direct_lending,,0.077,1.0977,0.241498,2021-06-30
 "Altimeter Growth Partners Fund V, L.P.",,altimeter-capital,https://fundraisingfox.com/investors/altimeter-capital,,private_equity,growth_equity,,0.0401,1.18551,,2025-12-31
 "Altimeter Growth Partners Fund VI, L.P.",Altimeter,altimeter-capital,https://fundraisingfox.com/investors/altimeter-capital,,private_equity,growth_equity,,0.1466,1.49299,0.0137417,2025-12-31
@@ -7178,6 +7176,7 @@ AXIUM INFRA US II CLASS A,Axium,axium,https://fundraisingfox.com/investors/axium
 Azalea Capital III,Azalea,azalea-capital,https://fundraisingfox.com/investors/azalea-capital,,private_equity,buyout,,0.0841,,,2019-06-30
 Azalea Fund IV,Azalea,azalea-capital,https://fundraisingfox.com/investors/azalea-capital,,private_equity,buyout,,0.0951,,,2019-06-30
 "Bain Capital Credit Managed Account (Blanco), L.P.",Bain,bain-capital-credit,https://fundraisingfox.com/investors/bain-capital-credit,,private_credit,direct_lending,,,1.55598,,2025-12-31
+"BAIN CAPITAL VENTURE FUND 2022, L.P.",Bain Capital Ventures,bain-capital-ventures,https://fundraisingfox.com/investors/bain-capital-ventures,,,,,,1.26975,0.0,2025-06-30
 "Bandera Strategic Credit Partners I, L.P.",Bandera Strategic,bandera-capital,https://fundraisingfox.com/investors/bandera-capital,,private_credit,direct_lending,,,1.53399,0.130778,2025-12-31
 "Bandera Strategic Credit Partners II, L.P.",Bandera Strategic,bandera-capital,https://fundraisingfox.com/investors/bandera-capital,,private_credit,direct_lending,,,1.5995,0.0129499,2025-12-31
 BANK DEBT SPV BOE,,,,,private_credit,direct_lending,,,1.09,,2024-06-30
@@ -7214,6 +7213,7 @@ Blkrk Tcp - Waterman,BLKRK TCP - WATERMAN,blkrk-tcp-waterman,https://fundraising
 Blkrk Tcp Ss Fund IX,,blkrk-tcp-ss,https://fundraisingfox.com/investors/blkrk-tcp-ss,,private_equity,buyout,,0.0225,,,2024-02-29
 Bloomberg US Aggregate TR,,,,,opportunistic,multi_strategy,,0.5,,,2022-09-30
 "BLUERUN VENTURES, L.P.",BlueRun Ventures,bluerun-ventures,https://fundraisingfox.com/investors/bluerun-ventures,,,,,0.066,1.39,0.84841,2014-09-30
+"BOND III, LP",Bond Capital Management,bond-capital-management,https://fundraisingfox.com/investors/bond-capital-management,,,,,-0.0391,0.9632,0.0,2025-06-30
 BP EUROPE VII WIGMORE CO INV,,,,,private_equity,buyout,,,1.22,,2024-06-30
 BR/WY Investment Feeder LP,,,,,private_equity,buyout,,,2.26517,1.83233,2025-09-30
 Bregal Sagemount Credit Solutions L.P.,Bregal Sagemount,bregal-sagemount,https://fundraisingfox.com/investors/bregal-sagemount,,private_credit,direct_lending,,0.0714,1.44303,0.791767,2025-12-31
@@ -7385,7 +7385,7 @@ Highbridge Mezzanine Partners II,Highbridge,highbridge,https://fundraisingfox.co
 HIPEP VII (AIF) Partnership,,,,,private_equity,buyout,,,2.20142,1.33452,2025-09-30
 "HPC GPFS Co-Invest (Zilker), L.P.",,,,,private_equity,co_investment,,0.0095,1.00935,,2025-12-31
 "HUDSON SANDY MANAGER, LLC",,,,,opportunistic,tactical,,,1.32,,2024-06-30
-Hummer Winblad Venture Partners V,HUMMER WINBLAD,hummer-winblad-venture-partners,https://fundraisingfox.com/investors/hummer-winblad-venture-partners,,private_equity,venture_capital,,0.473,2.88,2.8816,2025-09-30
+Hummer Winblad Venture Partners V,HUMMER WINBLAD,hummer-winblad-venture-partners-hwvp,https://fundraisingfox.com/investors/hummer-winblad-venture-partners-hwvp,,private_equity,venture_capital,,0.473,2.88,2.8816,2025-09-30
 "Hunter Point Capital GPFS – Preferred (Onshore), L.P.",,hunter-point-capital-lp,https://fundraisingfox.com/investors/hunter-point-capital-lp,,,,,-0.083,0.988312,0.082009,2025-12-31
 ICG CENTRE ST PARTNERSHIP,ICG,intermediate-capital-group,https://fundraisingfox.com/investors/intermediate-capital-group,,private_equity,fund_of_funds,,,1.14,,2024-06-30
 ICG STRATEGIC EQUITY COINV III,ICG,intermediate-capital-group,https://fundraisingfox.com/investors/intermediate-capital-group,,private_equity,buyout,,,2.34,,2024-06-30
@@ -7417,7 +7417,7 @@ InstarAGF Essential Infrastructure II (USP-USD) LP,InstarAGF Essential Infrastru
 INTEGRUM CAP PARTNERS COINVEST,Integrum,,,,private_equity,buyout,,,1.11,,2024-06-30
 Intu Chapelfield Norwich,Intu Chapelfield Norwich,intu-chapelfield-norwich,https://fundraisingfox.com/investors/intu-chapelfield-norwich,,real_assets,real_estate_equity,,,0.999516,0.023072,2018-09-30
 "Invesco Commercial Real Estate Finance Trust, Inc.",Invesco,invesco,https://fundraisingfox.com/investors/invesco,,real_assets,real_estate_equity,,0.1088,1.16735,0.0259404,2025-12-31
-"Invesco U.S Income Fund, L.P.",,invesco,https://fundraisingfox.com/investors/invesco,,,,,0.0736,1.7355,0.0823215,2025-12-31
+"Invesco U.S Income Fund, L.P.",Invesco,invesco,https://fundraisingfox.com/investors/invesco,,,,,0.0736,1.7355,0.0823215,2025-12-31
 ISQ GLOBAL INFRASTRUCTURE CREDIT FUND,ISQ Global Infrastructure,i-squared-capital,https://fundraisingfox.com/investors/i-squared-capital,,real_assets,infrastructure,,,1.13979,0.477144,2025-09-30
 ISQ Growth Markets Infrastructure Fund II (UST) 2024 $0.00,ISQ,isq,https://fundraisingfox.com/investors/isq,,real_assets,infrastructure,,0.0,,,2024-12-31
 "J.P. Morgan Partners Global Investors, L.P.",JP Morgan,j-p-morgan-asset-management,https://fundraisingfox.com/investors/j-p-morgan-asset-management,,private_equity,buyout,,,1.66835,1.66835,2025-09-30
@@ -7622,10 +7622,10 @@ RREEF America II Open-End,Rreef,rreef,https://fundraisingfox.com/investors/rreef
 "Rubenstein Properties Fund II, L.P.",Rubenstein Properties,rubenstein-partners,https://fundraisingfox.com/investors/rubenstein-partners,,real_assets,real_estate_equity,,-0.193,0.910584,0.830056,2025-12-31
 Russell 3000 TR,Russell 3000 TR,russell-3000-tr,https://fundraisingfox.com/investors/russell-3000-tr,,opportunistic,tactical,,0.1,,,2024-02-29
 Salica Growth Debt Fund I,,salica-investments,https://fundraisingfox.com/investors/salica-investments,,private_credit,direct_lending,,,1.03315,0.0883161,2025-09-30
-Schroders Private Equity Fund of Funds,Schroder,schroder,https://fundraisingfox.com/investors/schroder,,private_equity,fund_of_funds,,,1.70009,1.67847,2025-09-30
-Schroders Private Equity Fund of Funds II,Schroder,schroder,https://fundraisingfox.com/investors/schroder,,private_equity,fund_of_funds,,,2.86109,2.8339,2025-09-30
-Schroders Private Equity Fund of Funds III,Schroder,schroder,https://fundraisingfox.com/investors/schroder,,private_equity,fund_of_funds,,,1.95858,1.93688,2025-09-30
-Schroders Private Equity Fund of Funds IV,,schroder,https://fundraisingfox.com/investors/schroder,,private_equity,fund_of_funds,,,3.44868,3.37971,2025-09-30
+Schroders Private Equity Fund of Funds,Schroder,schroder-ventures,https://fundraisingfox.com/investors/schroder-ventures,,private_equity,fund_of_funds,,,1.70009,1.67847,2025-09-30
+Schroders Private Equity Fund of Funds II,Schroder,schroder-ventures,https://fundraisingfox.com/investors/schroder-ventures,,private_equity,fund_of_funds,,,2.86109,2.8339,2025-09-30
+Schroders Private Equity Fund of Funds III,Schroder,schroder-ventures,https://fundraisingfox.com/investors/schroder-ventures,,private_equity,fund_of_funds,,,1.95858,1.93688,2025-09-30
+Schroders Private Equity Fund of Funds IV,,schroder-ventures,https://fundraisingfox.com/investors/schroder-ventures,,private_equity,fund_of_funds,,,3.44868,3.37971,2025-09-30
 Sciens Aviation Special Opportunities Fund II,,sciens-capital-management,https://fundraisingfox.com/investors/sciens-capital-management,,opportunistic,special_situations,,,1.3352,1.33131,2025-09-30
 "SDC Digital Infrastructure Opportunity Fund II, L.P.",,,,,opportunistic,multi_strategy,,0.323,2.65891,0.440158,2025-12-31
 "SDC Digital Infrastructure Opportunity Fund III, L.P.",,,,,opportunistic,multi_strategy,,0.0335,1.07502,0.0187938,2025-12-31
